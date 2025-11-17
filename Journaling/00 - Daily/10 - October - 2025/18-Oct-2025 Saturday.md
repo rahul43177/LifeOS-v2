@@ -1,0 +1,92 @@
+## Anything in your mind just dump it and say it whenever you feel like in the entire day 
+###### 01 : 25 am -> Muskan #moodoff #hurt 
+- Nishant tujhse better tha 
+- Dal dal me fasa diya hai 
+- most longest and fucked year you had. 
+- 2017 ka Rahul chutiya and abhi ka rahul aur chutiya. 
+---
+###### 1:20 pm #happy 
+- I cleaned the fans , windows , all the photos and the posters in the house 
+- I cleaned my table and the entire PC deep cleaning 
+- I took the bath and right now I am feeling really good
+- I have heard that cleaning makes us feel really good
+
+---
+
+## How do I feel right now?
+**Time:** [e.g., 10:30 PM]
+
+(Use one or a few words — e.g., calm, low, blank, irritated, hopeful, anxious, heavy, peaceful, restless, lonely, relaxed, tense, tired, grateful, confused, excited, numb, content, loving, scared, bechain, relieved, joyful, happy, angry, frustrated, overwhelmed, drained, light, trapped, free, supported, abandoned, appreciated, dismissed, confident, insecure, proud, ashamed, guilty, resentful, forgiving, energized, depleted, focused, scattered, grounded, disconnected, warm, cold, inspired, stuck, playful, serious, vulnerable, defensive, safe, threatened.)
+- Emotion(s):
+- Energy level (1–10): 
+
+---
+
+## What might be behind this feeling?
+(Any event, thought, or situation that could be connected? It’s okay if you’re not sure.)
+
+###### Possible reason(s): 
+-  
+
+
+---
+
+## What is my mind saying?
+(Write the thoughts that are repeating — even small ones.)
+- 
+
+
+---
+
+## What is my body saying?
+(Notice sensations: tight chest, relaxed shoulders, heaviness, restlessness, neck pain, jaw tension, headache, stomach knots, butterflies in stomach, throat tightness, shallow breathing, deep breathing, heart racing, heart calm, warm face, cold hands, tight fists, loose hands, shoulder tension, back pain, leg restlessness, body wanting to move, body wanting to curl up, feeling grounded in feet, feeling floaty/disconnected, sleepiness, alertness, body fatigue, body energy, muscle soreness, tingling sensations, numbness, pressure in head, lightness in body, etc.)
+- 
+
+
+---
+
+## What do I need right now?
+(Comfort, rest, conversation, solitude, forgiveness, nature, silence, movement/exercise, stillness, distraction, focus, to be heard, to be alone, physical touch, space from others, fresh air, water, food, sleep, to cry, to laugh, to scream, creative expression, spiritual practice, grounding, permission to feel, reassurance, honesty, clarity, boundaries, connection, freedom, structure, play, purpose, acceptance, change, control, to let go, support, independence, validation, challenge, safety, adventure, etc.)
+- 
+
+
+---
+
+## Catastrophic Thoughts Tracker (Optional to fill)
+(If you had a strong worry/fear today that something bad would happen, write it down)
+
+**Prediction:** (What did I fear would happen?)
+-
+
+**Confidence:** (How certain was I? 1-10)
+-
+
+**Actual Outcome:** (Fill this in tomorrow - What actually happened?)
+-
+
+---
+
+## Reflection of the day
+(If you have time or feel like writing more.)
+
+==What helped me feel slightly better today?==
+
+
+==One thing I'm grateful for:==
+
+
+
+---
+
+## Sleep from previous night
+- Hours: I did not count. 
+- Quality: [e.g., restless, deep, interrupted, refreshing]
+- Energy Level : 
+- Dreams: [Optional - any memorable dreams?]
+
+---
+
+## Name Chanting figure : 
+> <span style="background:#b1ffff">Count</span> :
+
+> <span style="background:#d4b106">Malas</span> : 

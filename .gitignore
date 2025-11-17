@@ -1,0 +1,51 @@
+# -------------------------------------
+# Obsidian Vault Git Ignore (Mac + Windows Safe Sync)
+# -------------------------------------
+
+# ----------------------
+# MacOS System Junk
+# ----------------------
+.DS_Store
+/.obsidian/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# iCloud placeholder files
+*.icloud
+
+# ----------------------
+# Windows System Junk
+# ----------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ----------------------
+# Obsidian Cache & Layout State
+# (We do NOT want workspace layout syncing or cache)
+# ----------------------
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# If the theme layout keeps resetting, also exclude:
+# .obsidian/appearance.json
+
+# ----------------------
+# Plugin Caches
+# ----------------------
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/data.json.tmp
+.obsidian/plugins/*/data.json.bak
+
+# ----------------------
+# Backups & temp files
+# ----------------------
+*.bak
+*~
+~$*
+

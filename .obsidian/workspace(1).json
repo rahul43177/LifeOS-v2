@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "b6235258a3cd3e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "048956663452d5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af878c57ea1a0876",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe7a3b4935681828",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1667e9e53bef7c",
+        "type": "tabs",
+        "dimension": 62.057522123893804,
+        "children": [
+          {
+            "id": "8a1216ed5cbfabf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4776180c592c204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Path parameter",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f6dcc60afb4d672",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ba034177cc368a63",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e1adc2bfdc33a3cb",
+        "type": "tabs",
+        "dimension": 37.942477876106196,
+        "children": [
+          {
+            "id": "c0a650582d4d8354",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "61e9a01d25bf5491",
+    "type": "split",
+    "children": [
+      {
+        "id": "7423fe1b9cf58b83",
+        "type": "tabs",
+        "dimension": 60.52910052910053,
+        "children": [
+          {
+            "id": "d02b174327539d91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52cb30fcb27d4291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/GET task with ID.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GET task with ID"
+            }
+          },
+          {
+            "id": "7f58b71e80ac5d57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AirTribe/01 - Backend/05 - NodeJS/Path Parameter.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Path Parameter"
+            }
+          },
+          {
+            "id": "7986796057a6e149",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AirTribe/01 - Backend/05 - NodeJS/Path Parameter.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Path Parameter"
+            }
+          },
+          {
+            "id": "7690ef7f036f17d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "773bcec3dfce3565",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "6a1ec1ee715416dd",
+        "type": "tabs",
+        "dimension": 39.470899470899475,
+        "children": [
+          {
+            "id": "c81082d8b3da0a47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "focus-time:Open Focus Time Dashboard": false
+    }
+  },
+  "active": "af878c57ea1a0876",
+  "lastOpenFiles": [
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/Step 1 - Implement CRUD Operations In Memory.md",
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/00 - Task Manager API requirements - MAIN.md",
+    "AirTribe/00 - Course Index and Important/00 - Backend Assignment Index.md",
+    "Journaling/00 - Daily/11 - November - 2025/14-Nov-2025 Friday.md",
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/GET task with ID.md",
+    "AirTribe/01 - Backend/05 - NodeJS/Path Parameter.md",
+    "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md",
+    "AirTribe/00 - Course Index and Important/00 - Backend Course Index.md",
+    "AirTribe/01 - Backend/05 - NodeJS/02 - NodeJs - Rest API and Express.md",
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/Basic setup.md",
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/GET tasks API.md",
+    "AirTribe/01 - Backend/05 - NodeJS/Solution - Express and RestAPI assignment.md",
+    "AirTribe/01 - Backend/05 - NodeJS/Query Parameters.md",
+    "AirTribe/Path Parameter.md",
+    "AirTribe/01 - Backend/05 - NodeJS/01 - NodeJS Fundamentals.md",
+    "AirTribe/00 - Course Index and Important/Untitled.md",
+    "Work/RL NA/00 - Store Grouping download.md",
+    "Z-Personal Learning/04 - Chess/Wayward Queen Attack.md",
+    "attachments/Wayward Queen Attack - bishop attack.png",
+    "attachments/Wayward Queen Attack bishop attack.png",
+    "attachments/Wayward Queen Attack - takes it.png",
+    "attachments/Wayward Queen Attack - pawn.png",
+    "attachments/Wayward Queen Attack - pawn attacks the queen.png",
+    "attachments/Wayward Queen Attack - bishop position.png",
+    "attachments/Wayward Queen Attack - queen movement.png",
+    "Z-Personal Learning/04 - Chess/02 - Different openings.md",
+    "Z-Personal Learning/04 - Chess/How to win in 8 moves with Black self.md",
+    "Z-Personal Learning/04 - Chess/Sacrifice queen to checkmate.md",
+    "attachments/02 - Win in 8 Moves - Black self - this.png",
+    "attachments/02 - Win in 8 Moves - Black self - checkmate.png",
+    "attachments/02 - Win in 8 Moves - Black self - bishop takes bishop.png",
+    "Z-Personal Learning/04 - Chess/00 - Chess Index.md",
+    "Z-Personal Learning/04 - Chess/01 - Opening in Chess.md",
+    "Z-Personal Learning/04 - Chess/Untitled/Untitled.md",
+    "Work/RL EU/Changed Documentation - Material Profile.md",
+    "Z-Personal Learning/04 - Chess/Untitled",
+    "Z-Personal Learning/04 - Chess",
+    "Work/Standup Updates/Updates.md",
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API",
+    "AirTribe/01 - Backend/00 - Backend Assignments",
+    "Vajra Hatha Yoga",
+    "Z-Personal Learning/03 - Productivity Patterns/03 - Consistency and Procrastination",
+    "Z-Personal Learning/03 - Productivity Patterns",
+    "Z-Personal Learning/03 - Zerigarnik Effect",
+    "Z-Personal Learning/02 - Morning Framework",
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity",
+    "AirTribe/02 - Roadmap Learning/01 - Study/01 - DSA/Lectures & Problems/Untitled.canvas",
+    "Untitled.canvas",
+    "raunakinfo.canvas",
+    "Untitled 1.canvas",
+    "React/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 350,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "YYYY-[W]WW",
+  "weeklyNoteTemplate": "Templates/Weekly Emotional Analysis Template.md",
+  "weeklyNoteFolder": "Journaling/01 - Weekly/11-November-2025",
+  "localeOverride": "system-default"
+}

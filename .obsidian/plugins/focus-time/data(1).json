@@ -1,0 +1,448 @@
+{
+  "readData": {
+    "Journaling/00 - Daily/11 - November - 2025/07-Nov-2025 Friday.md": {
+      "fileId": "1762482504390",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/07-Nov-2025 Friday.md",
+      "duration": 1764000,
+      "openCount": 11
+    },
+    "Renu.md": {
+      "fileId": "1762483494372",
+      "filePath": "Renu.md",
+      "duration": 24000,
+      "openCount": 4
+    },
+    "renu information.md": {
+      "fileId": "1762483512376",
+      "filePath": "renu information.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "AirTribe/01 - Backend/03 - Backend Introduction/00 - Introduction to Web development and Backend Engineering.md": {
+      "fileId": "1762483620370",
+      "filePath": "AirTribe/01 - Backend/03 - Backend Introduction/00 - Introduction to Web development and Backend Engineering.md",
+      "duration": 120000,
+      "openCount": 4
+    },
+    "Templates/Daily-Check-In-Template.md": {
+      "fileId": "1762496126698",
+      "filePath": "Templates/Daily-Check-In-Template.md",
+      "duration": 312000,
+      "openCount": 8
+    },
+    "Work/MTP Frontend/00 - Frontend Navigation.md": {
+      "fileId": "1762496161820",
+      "filePath": "Work/MTP Frontend/00 - Frontend Navigation.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/MTP Frontend/Navigation Guide in the Frontend.md": {
+      "fileId": "1762496162698",
+      "filePath": "Work/MTP Frontend/Navigation Guide in the Frontend.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "Work/RL NA/000 -  Test PRs raised for Date change.md": {
+      "fileId": "1762496257405",
+      "filePath": "Work/RL NA/000 -  Test PRs raised for Date change.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/RL NA/00 - Frontend Date format Material Mapping.md": {
+      "fileId": "1762496258697",
+      "filePath": "Work/RL NA/00 - Frontend Date format Material Mapping.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/RL NA/00 - Store Grouping download.md": {
+      "fileId": "1762496261499",
+      "filePath": "Work/RL NA/00 - Store Grouping download.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/RL NA/00 - Store Status Store Mapping Date time format.md": {
+      "fileId": "1762496262375",
+      "filePath": "Work/RL NA/00 - Store Status Store Mapping Date time format.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Work/RL NA/00 - Timestamp changes.md": {
+      "fileId": "1762496263034",
+      "filePath": "Work/RL NA/00 - Timestamp changes.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/RL EU/00 - Material Profile IA Recommendation Editable.md": {
+      "fileId": "1762496276699",
+      "filePath": "Work/RL EU/00 - Material Profile IA Recommendation Editable.md",
+      "duration": 414000,
+      "openCount": 10
+    },
+    "AirTribe/09 - Roadmap Learning/02 - Backend/04 - Async and Caching/test.md": {
+      "fileId": "1762496720698",
+      "filePath": "AirTribe/09 - Roadmap Learning/02 - Backend/04 - Async and Caching/test.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/RL EU/00 - Material Profile second half doc.md": {
+      "fileId": "1762496294699",
+      "filePath": "Work/RL EU/00 - Material Profile second half doc.md",
+      "duration": 918000,
+      "openCount": 11
+    },
+    "Work/RL EU/Requirements - Material Profile Second half.md": {
+      "fileId": "1762501013363",
+      "filePath": "Work/RL EU/Requirements - Material Profile Second half.md",
+      "duration": 498000,
+      "openCount": 5
+    },
+    "Work/RL EU/Changed Documentation - Material Profile.md": {
+      "fileId": "1762506743330",
+      "filePath": "Work/RL EU/Changed Documentation - Material Profile.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/RL EU/Complete Implementation Plan.md": {
+      "fileId": "1762506755245",
+      "filePath": "Work/RL EU/Complete Implementation Plan.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "AirTribe/01 - Backend/05 - NodeJS/02 - NodeJs - Rest API and Express.md": {
+      "fileId": "1762508921314",
+      "filePath": "AirTribe/01 - Backend/05 - NodeJS/02 - NodeJs - Rest API and Express.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "Handy and Imp/Formatting notes.md": {
+      "fileId": "1762510925332",
+      "filePath": "Handy and Imp/Formatting notes.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "AirTribe/00 - Course Index and Important/00 - Backend Course Index.md": {
+      "fileId": "1762511224155",
+      "filePath": "AirTribe/00 - Course Index and Important/00 - Backend Course Index.md",
+      "duration": 102000,
+      "openCount": 16
+    },
+    "AirTribe/01 - Backend/01 - Pre-Course Module/01 - How to grow as an Engineer.md": {
+      "fileId": "1762511264052",
+      "filePath": "AirTribe/01 - Backend/01 - Pre-Course Module/01 - How to grow as an Engineer.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "AirTribe/01 - Backend/01 - Pre-Course Module/02 - Introduction to Internet.md": {
+      "fileId": "1762511266163",
+      "filePath": "AirTribe/01 - Backend/01 - Pre-Course Module/02 - Introduction to Internet.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "AirTribe/01 - Backend/01 - Pre-Course Module/03 - Backend Development Overview.md": {
+      "fileId": "1762511270421",
+      "filePath": "AirTribe/01 - Backend/01 - Pre-Course Module/03 - Backend Development Overview.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "AirTribe/01 - Backend/02 - Onboarding Module/00 - Welcome Onboard to AI-First Software Engineering with Airtribe.md": {
+      "fileId": "1762511278160",
+      "filePath": "AirTribe/01 - Backend/02 - Onboarding Module/00 - Welcome Onboard to AI-First Software Engineering with Airtribe.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "AirTribe/01 - Backend/04 - JavaScript Deep Dive/00 - JavaScript Fundamentals.md": {
+      "fileId": "1762511293565",
+      "filePath": "AirTribe/01 - Backend/04 - JavaScript Deep Dive/00 - JavaScript Fundamentals.md",
+      "duration": 168000,
+      "openCount": 9
+    },
+    "2025-11-07.md": {
+      "fileId": "1762533968752",
+      "filePath": "2025-11-07.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "Brain Dump/07-11-2025 Friday.md": {
+      "fileId": "1762534208529",
+      "filePath": "Brain Dump/07-11-2025 Friday.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Journaling/00 - Daily/10 - October - 2025/06-Nov-2025 Thursday.md": {
+      "fileId": "1762535211505",
+      "filePath": "Journaling/00 - Daily/10 - October - 2025/06-Nov-2025 Thursday.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Journaling/00 - Daily/11 - November - 2025/08-Nov-2025 Saturday.md": {
+      "fileId": "1762546232756",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/08-Nov-2025 Saturday.md",
+      "duration": 630000,
+      "openCount": 9
+    },
+    "Rough/Rough work - 2.md": {
+      "fileId": "1762598857182",
+      "filePath": "Rough/Rough work - 2.md",
+      "duration": 168000,
+      "openCount": 1
+    },
+    "Rough/Rough work.md": {
+      "fileId": "1762598858398",
+      "filePath": "Rough/Rough work.md",
+      "duration": 132000,
+      "openCount": 8
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/00 - Index/00 - Namaste DSA Index.md": {
+      "fileId": "1762602800553",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/00 - Index/00 - Namaste DSA Index.md",
+      "duration": 54000,
+      "openCount": 7
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/01 - Remove Duplicates from Sorted Array.md": {
+      "fileId": "1762603112550",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/01 - Remove Duplicates from Sorted Array.md",
+      "duration": 72000,
+      "openCount": 3
+    },
+    "Plan/Weekend Priority.md": {
+      "fileId": "1762617394479",
+      "filePath": "Plan/Weekend Priority.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity/Time and Space Complexity.md": {
+      "fileId": "1762622288533",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity/Time and Space Complexity.md",
+      "duration": 768000,
+      "openCount": 8
+    },
+    "Z-Personal Learning/02 - Morning Framework/00 - Morning Framework.md": {
+      "fileId": "1762628198547",
+      "filePath": "Z-Personal Learning/02 - Morning Framework/00 - Morning Framework.md",
+      "duration": 246000,
+      "openCount": 3
+    },
+    "Z-Personal Learning/03 - Productivity Learning/00 - Zerigarnik Effect.md": {
+      "fileId": "1762629411519",
+      "filePath": "Z-Personal Learning/03 - Productivity Learning/00 - Zerigarnik Effect.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Journaling/00 - Daily/11 - November - 2025/09-Nov-2025 Sunday.md": {
+      "fileId": "1762629620573",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/09-Nov-2025 Sunday.md",
+      "duration": 738000,
+      "openCount": 13
+    },
+    "Z-Personal Learning/03 - Productivity Learning/00 - Zerigarnik Effect(1).md": {
+      "fileId": "1762629658524",
+      "filePath": "Z-Personal Learning/03 - Productivity Learning/00 - Zerigarnik Effect(1).md",
+      "duration": 6000,
+      "openCount": 1
+    },
+    "Z-Personal Learning/03 - Productivity Patterns/02 - Boredom.md": {
+      "fileId": "1762629422597",
+      "filePath": "Z-Personal Learning/03 - Productivity Patterns/02 - Boredom.md",
+      "duration": 282000,
+      "openCount": 5
+    },
+    "Z-Personal Learning/03 - Productivity Patterns/01 - Zeigarnik Effect.md": {
+      "fileId": "1762628522536",
+      "filePath": "Z-Personal Learning/03 - Productivity Patterns/01 - Zeigarnik Effect.md",
+      "duration": 588000,
+      "openCount": 7
+    },
+    "Z-Personal Learning/03 - Productivity Patterns/03 - Consistency and Procrastination/01 - Consistency and Procrastination.md": {
+      "fileId": "1762629800562",
+      "filePath": "Z-Personal Learning/03 - Productivity Patterns/03 - Consistency and Procrastination/01 - Consistency and Procrastination.md",
+      "duration": 180000,
+      "openCount": 3
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity/Time and Space Complexity(1).md": {
+      "fileId": "1762630871338",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity/Time and Space Complexity(1).md",
+      "duration": 6000,
+      "openCount": 1
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity/Untitled.md": {
+      "fileId": "1762630877340",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/01 - Time and Space Complexity/Untitled.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/02 - Remove Element.md": {
+      "fileId": "1762630883428",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/02 - Remove Element.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Vajra Hatha Yoga/Socrates.md": {
+      "fileId": "1762661076137",
+      "filePath": "Vajra Hatha Yoga/Socrates.md",
+      "duration": 240000,
+      "openCount": 2
+    },
+    "Vajra Hatha Yoga/Brunos.md": {
+      "fileId": "1762661346758",
+      "filePath": "Vajra Hatha Yoga/Brunos.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "Vajra Hatha Yoga/Class - 01 - 09 November 2025.md": {
+      "fileId": "1762660212138",
+      "filePath": "Vajra Hatha Yoga/Class - 01 - 09 November 2025.md",
+      "duration": 492000,
+      "openCount": 7
+    },
+    "AirTribe/01 - Backend/05 - NodeJS/04 - Deep Dive into Async Programming Part 2.md": {
+      "fileId": "1762674164728",
+      "filePath": "AirTribe/01 - Backend/05 - NodeJS/04 - Deep Dive into Async Programming Part 2.md",
+      "duration": 6000,
+      "openCount": 1
+    },
+    "AirTribe/01 - Backend/05 - NodeJS/04 - Deep Dive into Async Programming Part - 2.md": {
+      "fileId": "1762674182401",
+      "filePath": "AirTribe/01 - Backend/05 - NodeJS/04 - Deep Dive into Async Programming Part - 2.md",
+      "duration": 30000,
+      "openCount": 4
+    },
+    "Personal/Muskan/03 - Brownie.md": {
+      "fileId": "1762692432921",
+      "filePath": "Personal/Muskan/03 - Brownie.md",
+      "duration": 300000,
+      "openCount": 3
+    },
+    "Personal/Muskan/Muskan video.md": {
+      "fileId": "1762702550191",
+      "filePath": "Personal/Muskan/Muskan video.md",
+      "duration": 222000,
+      "openCount": 4
+    },
+    "Journaling/00 - Daily/11 - November - 2025/01-Nov-2025 Saturday.md": {
+      "fileId": "1762716201832",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/01-Nov-2025 Saturday.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Journaling/00 - Daily/11 - November - 2025/10-Nov-2025 Monday.md": {
+      "fileId": "1762716207832",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/10-Nov-2025 Monday.md",
+      "duration": 3210000,
+      "openCount": 12
+    },
+    "Journaling/About me.md": {
+      "fileId": "1762717491839",
+      "filePath": "Journaling/About me.md",
+      "duration": 240000,
+      "openCount": 2
+    },
+    "Personal/Muskan/01 - Basic Info.md": {
+      "fileId": "1762719333840",
+      "filePath": "Personal/Muskan/01 - Basic Info.md",
+      "duration": 18000,
+      "openCount": 1
+    },
+    "Journaling/00 - Daily/11 - November - 2025/11-Nov-2025 Tuesday.md": {
+      "fileId": "1762805947744",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/11-Nov-2025 Tuesday.md",
+      "duration": 1416000,
+      "openCount": 2
+    },
+    "Work/RL EU/changes done.md": {
+      "fileId": "1762874894566",
+      "filePath": "Work/RL EU/changes done.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Journaling/00 - Daily/11 - November - 2025/14-Nov-2025 Friday.md": {
+      "fileId": "1763138985605",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/14-Nov-2025 Friday.md",
+      "duration": 432000,
+      "openCount": 7
+    },
+    "AirTribe/00 - Course Index and Important/00 - Backend Assignment Index.md": {
+      "fileId": "1763139006927",
+      "filePath": "AirTribe/00 - Course Index and Important/00 - Backend Assignment Index.md",
+      "duration": 66000,
+      "openCount": 7
+    },
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/00 - Task Manager API requirements - MAIN.md": {
+      "fileId": "1763139007747",
+      "filePath": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/00 - Task Manager API requirements - MAIN.md",
+      "duration": 66000,
+      "openCount": 10
+    },
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/Step 1 - Implement CRUD Operations In Memory.md": {
+      "fileId": "1763139015935",
+      "filePath": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/Step 1 - Implement CRUD Operations In Memory.md",
+      "duration": 174000,
+      "openCount": 23
+    },
+    "AirTribe/01 - Backend/05 - NodeJS/Path Parameter.md": {
+      "fileId": "1763139177932",
+      "filePath": "AirTribe/01 - Backend/05 - NodeJS/Path Parameter.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md": {
+      "fileId": "1763140706565",
+      "filePath": "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/GET task with ID API.md": {
+      "fileId": "1763143103053",
+      "filePath": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/GET task with ID API.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/POST tasks API.md": {
+      "fileId": "1763140734524",
+      "filePath": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/POST tasks API.md",
+      "duration": 342000,
+      "openCount": 16
+    },
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/PUT Update task with ID API.md": {
+      "fileId": "1763144931253",
+      "filePath": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/PUT Update task with ID API.md",
+      "duration": 84000,
+      "openCount": 2
+    },
+    "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/DELETE Tasks with ID API.md": {
+      "fileId": "1763146569260",
+      "filePath": "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/DELETE Tasks with ID API.md",
+      "duration": 204000,
+      "openCount": 4
+    },
+    "Journaling/00 - Daily/11 - November - 2025/15-Nov-2025 Saturday.md": {
+      "fileId": "1763147001254",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/15-Nov-2025 Saturday.md",
+      "duration": 96000,
+      "openCount": 2
+    },
+    "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/How to create a copy of an array in JS.md": {
+      "fileId": "1763148735258",
+      "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/How to create a copy of an array in JS.md",
+      "duration": 24000,
+      "openCount": 4
+    },
+    "AirTribe/01 - Backend/04 - JavaScript Deep Dive/Slice Method.md": {
+      "fileId": "1763148339257",
+      "filePath": "AirTribe/01 - Backend/04 - JavaScript Deep Dive/Slice Method.md",
+      "duration": 462000,
+      "openCount": 7
+    },
+    "AirTribe/01 - Backend/04 - JavaScript Deep Dive/Splice Method.md": {
+      "fileId": "1763148348143",
+      "filePath": "AirTribe/01 - Backend/04 - JavaScript Deep Dive/Splice Method.md",
+      "duration": 792000,
+      "openCount": 6
+    },
+    "Work/RL EU/0000 - Material Profile IA Recommendation Editable.md": {
+      "fileId": "1763151538062",
+      "filePath": "Work/RL EU/0000 - Material Profile IA Recommendation Editable.md",
+      "duration": 114000,
+      "openCount": 2
+    }
+  }
+}

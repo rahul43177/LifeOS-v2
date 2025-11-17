@@ -1,0 +1,8 @@
+- Basically be very very curious 
+- Ask whys 
+- Why are we using rust now , instead of python 
+	- What is rust better in ? 
+	- Why GO language 
+	- Why datadog instead of grafana 
+- Learn Systems and go deep and slow 
+- Minimal use AI I guess 

@@ -1,0 +1,4 @@
+- I worked on the few the changes suggested by gaurav yesterday for all the core screens 
+- I pushed the changes and raised the PR 
+- According to the sujan , he suggested few changes in the payload generation , so that also I have made in the frontend. Will ask for a deployment to you in sometime Sameer. 
+- There are two tickets i guess gaurav has assignment to me recently I will pick those one by one.

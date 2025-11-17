@@ -1,0 +1,26 @@
+- [ ] Hoisting - Akshay Saini
+- [ ] Temporal Deadzone - Akshay Saini 
+- [ ] Primitive and Non primitive data types in js - AirTribe course 
+- [ ] Implicit and Explicit Type conversion 
+- [ ] Equality Operator in JS 
+- [ ] Complete the **sliding window** playlist of Aditya Verma
+- [ ] Complete the Arrays and Recursion of Akshay Saini 
+- [ ] [[../01 - Networking and HTTP/01 - DNS Resolution|01 - DNS Resolution]]
+ - [ ] [[../01 - Networking and HTTP/02 - TCP 3-Way Handshake|02 - TCP 3-Way Handshake]]
+ - [ ] [[../01 - Networking and HTTP/03 - HTTP|03 - HTTP]]
+- [ ] Solve all the relevent problems which are there in the -> For 2 pointers and sliding window  and Recursion. 
+	- [ ] Akshay Saini Sheet
+	- [ ] Aditya Verma lectures questions 
+	- [ ] Homework questions sheet by AirTribe 
+- [ ] Revision of the notes of nodejs 
+- [ ] Learn and understand promises in depth
+- [ ] Working of NodeJS under the hood - Async nature of nodejs 
+- [ ] Deepen understanding of **Event Loop**, **Promises**, **async/await and callback functions 
+- [ ] Call Stack
+- [ ] Heap  
+- [ ] Callback functions 
+- [ ] RestAPI in depth
+- [ ] JWT and authentication 
+- [ ] Middlewares
+- [ ] Build a todo project with full JWT authentication and middlewares
+- [ ] Try to design database design for this in postgresql as well. 

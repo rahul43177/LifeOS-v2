@@ -1,0 +1,32 @@
+##### 13-11-2025 11:04 pm
+- Because I know she loves me a lot and she cares a lot for me. 
+	- Mujhe apni jaan ke liye bura bhi lagta hai ki mere wajah se kitna jheli hai jaan 
+	- Aur still she is sticking to it , she does not have any reason to stick with me. 
+		- Na mai uske spiritual level pe hu , bohot niche hu in fact 
+		- Na mai uske jitna good looking and good personality hu 
+		- Na hi maine utna achieve kiya hai jitna uske har field me kardiya hai - dance , sports , NCC , dance fest , battles , underground hip hop ,different types of job , fitness instructor , 2-3 ghante meditate karlena , bhai damn 
+	- Still she is sticking with me , pyaar karti hai yaar dil se mujhse 
+	- Kitna hurt kiya maine tab bhi hai mere sath , toh I feel the love she brings to the table ,
+		- She had a little rough time at home while growing up because of father and all , jidhar pyaar naam ki chiz hi nahi hai 
+		- mom ne maarne ki koshish ki because she does not want another child to be raised in this environment , mai unki duvidha bhi samajh raha hu , kitni lachaar hongi aunty 
+		- Papa ka drama , ghar ka drama , apas me maa baap ki ladai , hath uthana
+		- dono pairo me injury -- 2 surgeries 
+		- mera drama vo sab. 
+		- Jo bachpan ke dost the , vo faltu bolne lag gaye , chori ka ilzaam lagane lag gaye 
+		- ghar pe taane , didi se taane 
+	- Agar is sab se nikal ke mujhe itna pyaar dena , har mumkin koshish karna mujhe pyara feel karane ke liye , mujhe hasane ke liye.
+	- Mere bare me sochna , aur analyse karna , decide karna kya nahi hai iske paas , konse color ke kapde nahi hai , aur fir dhund dhund ke research karke mujhe ek ek karne diya 
+	- Mere liye Himalayas ka experience chord ke ayi kyunki mera bday tha and she wanted to be part of it and wanted to be with me. 
+	- Aise na jane kitne chize jo vo roz karti hai , itna micro level tak soch leti hai ki isko pulpy orange pasand hai toh leleti hu , iske liye paani leleti hu 
+	- And it goes till macro 
+	- She loves to be with me , she loves to buy time with me , she tries squeeze every second of time whatever she can to be with me. 
+	- Aur is sab ke baad mai uska poke kardeta hu kabhi kabhi , usko disrespect kardeta hu , ulta sidha bolta hu 
+	  **KYU ?**
+	- because she checked my phone ? 
+		- Rahul please grow up mere bhai 
+		- Is se zyada samjhdaar , aur pyaar karne wali ladki nahi hai aaj ki duniya me 
+		- usne bohot kuch jhela hai , sab jhelte hue , nikal ke aa rahi hai ek dam datt ke samna ki hai vo , bandi mentally bohot strong hai -- bohot jhel liya hai life me and physically bhi -- Himalayas chhad ke ayi hai 19k feet pe , aur tujhe pyaar kar rahi hai , aise behave mat kiya kar , nahi milne wala aisa koi insaan jo itna unconditional love karega 
+		- Tu hi bol raha tha na ki "Muskan tera pyaar conditional hai" -- ghanta mere bhai , isko bolte hai shiddhat se pyaar karna 
+		- She is on a boat jidhar , lehre bhi opposite me ja rahi hai with full force , wind bhi opposite direction me ja rahi hai with full force and barish bhi bohot tez hai -- is sab ko chirte hue vo bina tute , bina dag magaye 
+		- Bohot pyari bandi hai , izzat se rakhna usko zindagi bhar , sanjhoh ke.
+

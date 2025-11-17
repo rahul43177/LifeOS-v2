@@ -1,0 +1,81 @@
+{
+  "styles": {
+    "AirTribe/01 - Course Modules and chapters": {
+      "backgroundColor": "#374151",
+      "textColor": "#ffffff"
+    },
+    "AirTribe/02 - Roadmap Learning": {
+      "backgroundColor": "#1f2937",
+      "textColor": "#f9fafb"
+    },
+    "Work": {
+      "backgroundColor": "#dc2626",
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "Work/Signet": {
+      "backgroundColor": "#d1fae5",
+      "textColor": "#065f46"
+    },
+    "Z-Personal Learning": {
+      "backgroundColor": "#10b981",
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "Personal/Brain Dump/Processing Emotions.md": {
+      "opacity": 1,
+      "isBold": false
+    },
+    "Work/RL EU": {
+      "backgroundColor": "#d4d72d",
+      "textColor": "#050505",
+      "isBold": true,
+      "applyToFiles": false,
+      "applyToSubfolders": false,
+      "opacity": 0.9,
+      "isItalic": false
+    },
+    "AirTribe": {
+      "backgroundColor": "#2147ba",
+      "applyToSubfolders": false,
+      "isBold": true,
+      "textColor": "#ffffff"
+    },
+    "Work/SIGNET": {
+      "backgroundColor": "#d1fae5",
+      "textColor": "#065f46",
+      "isBold": true
+    },
+    "Work/RL NA": {
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "isBold": true,
+      "opacity": 0.9,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    }
+  },
+  "presets": {
+    "Red": {
+      "backgroundColor": "#ff3333",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "isItalic": false,
+      "applyToFiles": false
+    },
+    "Red color": {
+      "backgroundColor": "#ff0000",
+      "applyToSubfolders": false,
+      "isBold": true
+    },
+    "lightAndDarkGreen": {
+      "backgroundColor": "#d1fae5",
+      "textColor": "#065f46"
+    }
+  },
+  "presetOrder": [
+    "Red",
+    "Red color",
+    "lightAndDarkGreen"
+  ]
+}

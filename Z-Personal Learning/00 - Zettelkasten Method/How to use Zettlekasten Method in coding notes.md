@@ -1,0 +1,3 @@
+- We can create networked notes -> with a web like structure. 
+- We can increase our learning capacities and accelerate the expertise. 
+- This is a good note taking method because we can create a brain like structure and web like notes which are connected. 

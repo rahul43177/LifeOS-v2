@@ -1,0 +1,18 @@
+{
+  "accentColor": "#a149ca",
+  "cssTheme": "Encore",
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "graphview-image",
+    "minimal-theme",
+    "extended-colorschemes",
+    "custom-rainbow-colors",
+    "retroma-themes"
+  ]
+}

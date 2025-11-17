@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 9753103
+      }
+    },
+    {
+      "query": "path:Work ",
+      "color": {
+        "a": 1,
+        "rgb": 14427685
+      }
+    },
+    {
+      "query": "path:AirTribe  ",
+      "color": {
+        "a": 1,
+        "rgb": 30719
+      }
+    },
+    {
+      "query": "path:Journaling  ",
+      "color": {
+        "a": 1,
+        "rgb": 4500210
+      }
+    },
+    {
+      "query": "path:Personal",
+      "color": {
+        "a": 1,
+        "rgb": 10837738
+      }
+    },
+    {
+      "query": "path:\"Z-Personal Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1227137
+      }
+    },
+    {
+      "query": "path : Books",
+      "color": {
+        "a": 1,
+        "rgb": 16700208
+      }
+    },
+    {
+      "query": "path:attachments  ",
+      "color": {
+        "a": 1,
+        "rgb": 16619076
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 1.85186792358721,
+  "collapse-forces": false,
+  "centerStrength": 0.658464884020619,
+  "repelStrength": 10.282699742268,
+  "linkStrength": 0.295062822164948,
+  "linkDistance": 30,
+  "scale": 0.3336616868618341,
+  "close": true
+}
