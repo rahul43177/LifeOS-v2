@@ -5,13 +5,9 @@
   "Appearance-dark@@accent-color-override-dark": true,
   "things-style@@h1-color": "#FFFFFF",
   "encore-settings@@theme-dark": "encore-theme-dark-cobalt",
-  "encore-settings@@encore-translucency-blur-amount": 16,
   "encore-settings@@encore-translucency": false,
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@encore-translucency-background": "encore-bg-image",
-  "encore-settings@@encore-fancy-headers": false,
-  "encore-settings@@encore-coloured-tooltip": false,
-  "encore-settings@@blur-amount": "encore-blur-less",
   "encore-settings@@encore-disable-grain": false,
   "encore-settings@@encore-disable-clickability-fix": false,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
@@ -67,9 +63,6 @@
   "blue-topaz-theme@@plain-file-title": false,
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-waves-light",
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
-  "encore-settings@@encore-mobile-oled-mode": false,
-  "encore-settings@@encore-highlight-border": false,
-  "encore-settings@@encore-bright-accent": false,
   "encore-settings@@encore-disable-logo-on-hr": false,
   "encore-settings@@encore-no-excalidraw": false,
   "name": "Minimal Night Owl Theme",
@@ -273,5 +266,6 @@
   "typomagical-text@@body-ligatures": false,
   "shimmering-focus@@normal-tab-bar": false,
   "shimmering-focus@@hide-inline-title-when-more-than-one-tab": false,
-  "shimmering-focus@@alt-colorschemes": "colorscheme-grubox"
+  "shimmering-focus@@alt-colorschemes": "colorscheme-grubox",
+  "encore-settings@@encore-translucency-blur-amount": 10
 }

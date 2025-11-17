@@ -10,8 +10,17 @@
 - To understand my emotions better and to know myself better -- that what am I feeling and why I am feeling something. 
 - So I think I am gonna stick to this practice of just coming here , put a timestamp and dump whatever I am feeling in the entire day at any time I am feeling and at the end of day somewhere I just fill the rest of the section. 
 - wake up -> fill the sleep wala sections -> entire day timestamp wala feeling dump -> at the end of the day -> fill rest of the sections. 
-- 
 
+###### 03:37 pm #chill
+- So right now I feel really really chill , and I am in no mood to work , which is I am not taking it in a bad way , I kind of like this chill mood today , no rush , no deadline , no one to report to 
+- Nothing to worry about. 
+- There are few tasks which are going come in near future and I have gotten the heads up about it as well. But today at present in the moment -- I am chill. 
+- I am Relaxed and nothing to worry about
+
+###### 04:34 pm #excited 
+- I learnt how to use the flashcards and spaced repetition in the obsidian to make my learning more effective 
+- And that gave me a high and dopamine hit and made me excited to learn new things and then review them with a proper system , and if I find something easy I will put it in easy and review in more days , and if something is difficult and hard -- I will have to review it in a day or two. 
+- Which in my opinion is really great . but one thing is bugging me -- the syntax , the syntax of the spaced repetition -- makes my notes look ugly. This bugged a bit , but i guess it bringing far more value that making my notes ugly haha . 
 
 ---
 ## Sleep from previous night
@@ -42,7 +51,7 @@
 
 
 ---
-## What is my body saying?
+## What is my body telling me ?
 (Tense, relaxed, heavy, light, tightness in chest, pressure in head, clenched jaw, steady breath, shallow breath, warmth, numbness, exhaustion, energized, restless, shaky, calm, open, closed-off, craving movement, craving stillness, hunger, thirst, comfort-seeking, overstimulated, grounded, unsafe, safe, wanting touch, wanting space.)
 
 -  

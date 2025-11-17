@@ -27,8 +27,8 @@
     "Templates/Daily-Check-In-Template.md": {
       "fileId": "1762496126698",
       "filePath": "Templates/Daily-Check-In-Template.md",
-      "duration": 354000,
-      "openCount": 10
+      "duration": 420000,
+      "openCount": 12
     },
     "Work/MTP Frontend/00 - Frontend Navigation.md": {
       "fileId": "1762496161820",
@@ -183,14 +183,14 @@
     "Rough/Rough work.md": {
       "fileId": "1762598858398",
       "filePath": "Rough/Rough work.md",
-      "duration": 144000,
-      "openCount": 11
+      "duration": 156000,
+      "openCount": 12
     },
     "AirTribe/09 - Roadmap Learning/01 - DSA/00 - Index/00 - Namaste DSA Index.md": {
       "fileId": "1762602800553",
       "filePath": "AirTribe/09 - Roadmap Learning/01 - DSA/00 - Index/00 - Namaste DSA Index.md",
-      "duration": 54000,
-      "openCount": 8
+      "duration": 60000,
+      "openCount": 9
     },
     "AirTribe/09 - Roadmap Learning/01 - DSA/Lectures & Problems/02 - Array Easy and Medium/01 - Remove Duplicates from Sorted Array.md": {
       "fileId": "1762603112550",
@@ -543,8 +543,8 @@
     "Journaling/00 - Daily/11 - November - 2025/17-Nov-2025 Monday.md": {
       "fileId": "1763320304782",
       "filePath": "Journaling/00 - Daily/11 - November - 2025/17-Nov-2025 Monday.md",
-      "duration": 1002000,
-      "openCount": 8
+      "duration": 2148000,
+      "openCount": 20
     },
     "Vajra Hatha Yoga/01 - 09 November 2025.md": {
       "fileId": "1763361172960",
@@ -579,8 +579,56 @@
     "Personal/AI Prompt Generations/Rought Prompt AI.md": {
       "fileId": "1763364851786",
       "filePath": "Personal/AI Prompt Generations/Rought Prompt AI.md",
-      "duration": 558000,
-      "openCount": 1
+      "duration": 570000,
+      "openCount": 2
+    },
+    "Personal/Processing Emotions/What is my body saying.md": {
+      "fileId": "1763372769515",
+      "filePath": "Personal/Processing Emotions/What is my body saying.md",
+      "duration": 12000,
+      "openCount": 5
+    },
+    "Journaling/00 - Daily/10 - October - 2025/14-Oct-2025 Tuesday.md": {
+      "fileId": "1763372793514",
+      "filePath": "Journaling/00 - Daily/10 - October - 2025/14-Oct-2025 Tuesday.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "Work/SIGNET/000 - Signet Rough.md": {
+      "fileId": "1763374199818",
+      "filePath": "Work/SIGNET/000 - Signet Rough.md",
+      "duration": 24000,
+      "openCount": 4
+    },
+    "Work/RL EU/000000 - RL EU Rough.md": {
+      "fileId": "1763374211822",
+      "filePath": "Work/RL EU/000000 - RL EU Rough.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "Work/RL NA/0000 - NA Rough.md": {
+      "fileId": "1763374247814",
+      "filePath": "Work/RL NA/0000 - NA Rough.md",
+      "duration": 384000,
+      "openCount": 7
+    },
+    "Z-Personal Learning/05 - Flashcards/00 - Practicing Flashcards.md": {
+      "fileId": "1763375123244",
+      "filePath": "Z-Personal Learning/05 - Flashcards/00 - Practicing Flashcards.md",
+      "duration": 570000,
+      "openCount": 5
+    },
+    "Z-Personal Learning/05 - Flashcards/17-11-2025.md": {
+      "fileId": "1763375555257",
+      "filePath": "Z-Personal Learning/05 - Flashcards/17-11-2025.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Z-Personal Learning/05 - Flashcards/18-Nov-2025 Tuesday.md": {
+      "fileId": "1763375663257",
+      "filePath": "Z-Personal Learning/05 - Flashcards/18-Nov-2025 Tuesday.md",
+      "duration": 6000,
+      "openCount": 2
     }
   }
 }

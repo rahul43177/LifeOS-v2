@@ -1,7 +1,19 @@
 {
-  "fileVisibility": "documents",
-  "excludedFolders": [],
-  "excludedFiles": [],
+  "fileVisibility": "supported",
+  "hiddenTags": [],
+  "vaultProfiles": [
+    {
+      "id": "default",
+      "name": "Default",
+      "fileVisibility": "supported",
+      "hiddenFolders": [],
+      "hiddenTags": [],
+      "hiddenFiles": [],
+      "navigationBanner": null,
+      "shortcuts": []
+    }
+  ],
+  "vaultProfile": "default",
   "autoRevealActiveFile": true,
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
@@ -18,7 +30,6 @@
   "dateFormat": "MMM d, yyyy",
   "timeFormat": "h:mm a",
   "skipAutoScroll": false,
-  "navigationBanner": null,
   "showSectionIcons": true,
   "showShortcuts": true,
   "showRecentNotes": true,
@@ -26,6 +37,22 @@
   "collapseBehavior": "all",
   "smartCollapse": true,
   "colorIconOnly": false,
+  "toolbarVisibility": {
+    "navigation": {
+      "shortcuts": true,
+      "expandCollapse": true,
+      "hiddenItems": true,
+      "rootReorder": true,
+      "newFolder": true
+    },
+    "list": {
+      "search": true,
+      "descendants": true,
+      "sort": true,
+      "appearance": true,
+      "newNote": true
+    }
+  },
   "showNoteCount": true,
   "separateNoteCounts": true,
   "navIndent": 16,
@@ -48,7 +75,6 @@
   "showAllTagsFolder": true,
   "showUntagged": false,
   "tagSortOrder": "alpha-asc",
-  "hiddenTags": [],
   "keepEmptyTagsProperty": false,
   "defaultFolderSort": "modified-desc",
   "listPaneTitle": "header",
@@ -71,7 +97,6 @@
   "frontmatterModifiedField": "",
   "frontmatterDateFormat": "",
   "saveMetadataToFrontmatter": false,
-  "iconizeFormat": false,
   "fileNameRows": 1,
   "showFileDate": true,
   "alphabeticalDateMode": "modified",
@@ -248,7 +273,6 @@
       }
     ]
   },
-  "shortcuts": [],
   "checkForUpdatesOnStart": true,
   "confirmBeforeDelete": true,
   "customVaultName": "",
@@ -273,7 +297,7 @@
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {
-    "AirTribe": "lucide-book"
+    "AirTribe": "book"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
@@ -286,6 +310,7 @@
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
   "tagAppearances": {},
+  "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
   "latestKnownRelease": "1.8.4",
@@ -310,6 +335,7 @@
     "Vajra Hatha Yoga"
   ],
   "rootTagOrder": [],
+  "iconizeFormat": false,
   "showTagsAboveFolders": false,
   "showFavoriteTagsFolder": true,
   "showUntaggedInFavorites": false,

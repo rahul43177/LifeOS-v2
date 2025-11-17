@@ -3,7 +3,6 @@
   "obsidian-paste-image-rename",
   "obsidian-excalidraw-plugin",
   "obsidian-image-toolkit",
-  "obsidian-spaced-repetition",
   "calendar",
   "code-styler",
   "omnisearch",
@@ -18,5 +17,6 @@
   "obsidian-minimal-settings",
   "obsidian-format-code",
   "focus-time",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-spaced-repetition"
 ]

@@ -34,7 +34,7 @@
 
 
 ---
-## What is my body saying?
+## What is my body telling me ?
 (Tense, relaxed, heavy, light, tightness in chest, pressure in head, clenched jaw, steady breath, shallow breath, warmth, numbness, exhaustion, energized, restless, shaky, calm, open, closed-off, craving movement, craving stillness, hunger, thirst, comfort-seeking, overstimulated, grounded, unsafe, safe, wanting touch, wanting space.)
 
 -  

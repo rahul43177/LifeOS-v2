@@ -1,7 +1,10 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#namastedsa",
+      "#backend",
+      "#systemdesign"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -39,7 +42,7 @@
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "flashcardEasyText": "Easy",
-    "flashcardGoodText": "Medium",
+    "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "openViewInNewTab": false,
