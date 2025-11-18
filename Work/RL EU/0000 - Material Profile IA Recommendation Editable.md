@@ -1,7 +1,7 @@
 ---
 feature: ../../attachments/00 - Material Profile IA Recommendation Editable - material Profile screen.png
 ---
-#index 
+#workindex #rlallclientindex   
 ****
 The branch : 
 ```plain text

@@ -8,19 +8,9 @@
       "backgroundColor": "#1f2937",
       "textColor": "#f9fafb"
     },
-    "Work": {
-      "backgroundColor": "#dc2626",
-      "textColor": "#ffffff",
-      "isBold": true
-    },
     "Work/Signet": {
       "backgroundColor": "#d1fae5",
       "textColor": "#065f46"
-    },
-    "Z-Personal Learning": {
-      "backgroundColor": "#10b981",
-      "textColor": "#ffffff",
-      "isBold": true
     },
     "Personal/Brain Dump/Processing Emotions.md": {
       "opacity": 1,
@@ -35,12 +25,6 @@
       "opacity": 0.9,
       "isItalic": false
     },
-    "AirTribe": {
-      "backgroundColor": "#2147ba",
-      "applyToSubfolders": false,
-      "isBold": true,
-      "textColor": "#ffffff"
-    },
     "Work/SIGNET": {
       "backgroundColor": "#d1fae5",
       "textColor": "#065f46",
@@ -52,6 +36,13 @@
       "isBold": true,
       "opacity": 0.9,
       "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "AirTribe": {
+      "backgroundColor": "#ff3333",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "isItalic": false,
       "applyToFiles": false
     }
   },

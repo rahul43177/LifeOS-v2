@@ -1,6 +1,6 @@
 {
   "lightStyle": "minimal-light",
-  "darkStyle": "minimal-dark-tonal",
+  "darkStyle": "minimal-dark-black",
   "lightScheme": "minimal-default-light",
   "darkScheme": "minimal-things-dark",
   "editorFont": "",
@@ -8,7 +8,7 @@
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,
-  "textNormal": 20,
+  "textNormal": 17,
   "textSmall": 13,
   "imgGrid": false,
   "imgWidth": "img-default-width",

@@ -1,4 +1,4 @@
-#index 
+#techindex 
 
 ## 01 - Time and Space Complexity 
 [[../Lectures & Problems/01 - Time and Space Complexity/Time and Space Complexity|Time and Space Complexity]]

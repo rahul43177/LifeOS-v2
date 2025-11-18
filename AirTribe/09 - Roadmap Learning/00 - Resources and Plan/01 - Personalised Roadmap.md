@@ -1,9 +1,8 @@
-#index 
 [Web Roadmap](https://www.airtribe.live/roadmap/QE4EAOELPRU5)
 
 # Skill gap analysis
 - **Data Structures & Algorithms (DSA):**  
-    Needs stronger problem-solving skills in core DSA topics (e.g., recursion, trees, graphs, DP), which are heavily tested in Tier 1 interviews.
+    Needs stronger problem-solving skills in core DSA topics (e.g., [[../../02 - DSA AirTribe/03 - Recursion/Recursion|recursion]], trees, graphs, DP), which are heavily tested in Tier 1 interviews.
 - **System Design Skills:**  
     Build the ability to design scalable, distributed systems and articulate trade-offs involving performance, availability, and cost.
 - **Object-Oriented and Low-Level Design:**  

@@ -22,6 +22,20 @@
 - And that gave me a high and dopamine hit and made me excited to learn new things and then review them with a proper system , and if I find something easy I will put it in easy and review in more days , and if something is difficult and hard -- I will have to review it in a day or two. 
 - Which in my opinion is really great . but one thing is bugging me -- the syntax , the syntax of the spaced repetition -- makes my notes look ugly. This bugged a bit , but i guess it bringing far more value that making my notes ugly haha . 
 
+###### 05:25 PM #excited 
+- Right now , I came for a haircut and I pulled Muskan also in it .
+- Even tho she finds it boring , but I asked her to come 
+- So right now I am waiting for her 
+- And then we will leave for haircut — excited little bit for the changed look and lets see how it goes .
+
+###### 09:13 pm
+- So went for haircut , haircut is done and the hair seems good enough.
+- Spent the entire evening with Muski , it was fun . We played chess together and I wont both the games yuhhhuuu. 
+- It was a good evening and nice day. Felt really good throughout.
+
+###### 11:28 pm
+- Feeling good and nice. 
+
 ---
 ## Sleep from previous night
 - Hours: 1:30 am - 10:30 am = 9 hours
@@ -30,37 +44,41 @@
 - Dreams: none
 
 ## How do I feel right now?
-**Time:** [e.g., 10:30 PM]
+**Time:** 09:15 pm
 
 (Use one or a few words — e.g., calm, low, blank, irritated, hopeful, anxious, heavy, peaceful, restless, lonely, relaxed, tense, tired, grateful, confused, excited, numb, content, loving, scared, bechain, relieved, joyful, happy, angry, frustrated, overwhelmed, drained, light, trapped, free, supported, abandoned, appreciated, dismissed, confident, insecure, proud, ashamed, guilty, resentful, forgiving, energized, depleted, focused, scattered, grounded, disconnected, warm, cold, inspired, stuck, playful, serious, vulnerable, defensive, safe, threatened.)
-- Emotion(s): 
-- Energy level (1–10): 
+- Emotion(s): calm , relaxed , joyful
+- Energy level (1–10): 9
 
 ---
 
 ## What might be behind this feeling?
 (Any event, thought, or situation that could be connected? It’s okay if you’re not sure.)
 ###### Possible reason(s): 
--  
-
+**CALM**
+- Because what is there to worry , it was nice , no deadline no pressure and overall a good day.
+**RELAXED**
+- because mai haircut ka kaafi time se soch raha tha and time nahi mil raha tha , a loop closed -- feels good. 
+**JOYFUL**
+- Because I genuinely happy from inside. 
 
 ---
 ## What is my mind saying?
 (Write the thoughts that are repeating — even small ones.)
-- 
+- To study and clear the backlog lectures. 
 
 
 ---
 ## What is my body telling me ?
 (Tense, relaxed, heavy, light, tightness in chest, pressure in head, clenched jaw, steady breath, shallow breath, warmth, numbness, exhaustion, energized, restless, shaky, calm, open, closed-off, craving movement, craving stillness, hunger, thirst, comfort-seeking, overstimulated, grounded, unsafe, safe, wanting touch, wanting space.)
 
--  
+-  light , feeling little cold as I just entered from out. 
 
 
 ---
 ## What do I need right now?
 (Comfort, rest, conversation, solitude, forgiveness, nature, silence, movement/exercise, stillness, distraction, focus, to be heard, to be alone, physical touch, space from others, fresh air, water, food, sleep, to cry, to laugh, to scream, creative expression, spiritual practice, grounding, permission to feel, reassurance, honesty, clarity, boundaries, connection, freedom, structure, play, purpose, acceptance, change, control, to let go, support, independence, validation, challenge, safety, adventure, etc.)
-- 
+- I need to study and feel little productive. 
 
 
 
@@ -70,10 +88,12 @@
 (If you have time or feel like writing more.)
 
 ==What helped me feel slightly better today?==
-
+- Haircut 
+- Chess 
+- Relaxing and not working
 
 ==One thing I'm grateful for:==
-
+- I am grateful for the resources I have and the positive surrounding. 
 
 
 ---
@@ -82,4 +102,4 @@
 ---
 
 ## Name Chanting figure : 
-> Count :
+> Count : 1080

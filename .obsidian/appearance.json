@@ -1,13 +1,13 @@
 {
   "accentColor": "#a149ca",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "",
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 17,
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "showRibbon": true,
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "graphview-image",
     "minimal-theme",

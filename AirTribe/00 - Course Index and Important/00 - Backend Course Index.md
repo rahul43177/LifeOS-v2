@@ -1,4 +1,4 @@
-#index 
+#techindex
 
 ### 01 : Pre Course Modules Classes
 [[../01 - Backend/01 - Pre-Course Module/01 - How to grow as an Engineer|01 - How to grow as an Engineer]]
@@ -23,6 +23,7 @@
 [[../01 - Backend/05 - NodeJS/03 - Deep Dive into Async Programming|03 - Deep Dive into Async Programming]]
 [[../01 - Backend/05 - NodeJS/04 - Deep Dive into Async Programming Part - 2|04 - Deep Dive into Async Programming Part - 2]]
 [[../01 - Backend/05 - NodeJS/05 - Authentication and Authorisation|05 - Authentication and Authorisation]]
+[[06 - Authentication and Authorisation]]
 
 
 

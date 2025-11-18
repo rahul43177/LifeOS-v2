@@ -276,24 +276,7 @@
   "checkForUpdatesOnStart": true,
   "confirmBeforeDelete": true,
   "customVaultName": "",
-  "pinnedNotes": {
-    "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md": {
-      "folder": true,
-      "tag": false
-    },
-    "AirTribe/00 - Course Index and Important/00 - Backend Course Index.md": {
-      "folder": true,
-      "tag": false
-    },
-    "AirTribe/09 - Roadmap Learning/01 - DSA/00 - Index/00 - Namaste DSA Index.md": {
-      "folder": true,
-      "tag": false
-    },
-    "AirTribe/09 - Roadmap Learning/00 - Resources and Plan/00  - Roadmap Index.md": {
-      "folder": true,
-      "tag": false
-    }
-  },
+  "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {
@@ -315,7 +298,7 @@
   "lastShownVersion": "",
   "latestKnownRelease": "1.8.4",
   "lastAnnouncedRelease": "1.8.1",
-  "lastReleaseCheckAt": 1763355997024,
+  "lastReleaseCheckAt": 1763447613898,
   "rootFolderOrder": [
     "AirTribe",
     "Handy and Imp",
@@ -332,7 +315,8 @@
     "SAILUM",
     "Books",
     "Brain Dump",
-    "Vajra Hatha Yoga"
+    "Vajra Hatha Yoga",
+    "Bases"
   ],
   "rootTagOrder": [],
   "iconizeFormat": false,

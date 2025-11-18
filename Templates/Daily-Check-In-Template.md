@@ -7,10 +7,10 @@
 
 ---
 ## Sleep from previous night
-- Hours: [e.g., 6.5 hours]
-- Quality: [e.g., restless, deep, interrupted, refreshing]
+- Hours: 
+- Quality: 
 - Energy Level : 
-- Dreams: [Optional - any memorable dreams?]
+- Dreams: 
 
 ## How do I feel right now?
 **Time:** [e.g., 10:30 PM]

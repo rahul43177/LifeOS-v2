@@ -1,4 +1,4 @@
-#index 
+#techindex  
 
 ## Resources 
 1.  [[01 - Personalised Roadmap]]

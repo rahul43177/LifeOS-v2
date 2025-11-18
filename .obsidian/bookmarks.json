@@ -2,56 +2,20 @@
   "items": [
     {
       "type": "file",
+      "ctime": 1763488794303,
+      "path": "AirTribe/00 - Course Index and Important/Tech Study Index.base",
+      "title": "Tech Study Index"
+    },
+    {
+      "type": "file",
+      "ctime": 1763403268980,
+      "path": "Bases/Tech Index Database.base",
+      "title": "Tech Index Database"
+    },
+    {
+      "type": "file",
       "ctime": 1759748519038,
       "path": "AirTribe/00 - Course Index and Main/00 - Course Main Index.md"
-    },
-    {
-      "type": "file",
-      "ctime": 1762456256636,
-      "path": "AirTribe/00 - Course Index and Important/00 - Backend Course Index.md",
-      "title": "Backend Course Index"
-    },
-    {
-      "type": "file",
-      "ctime": 1762456413466,
-      "path": "AirTribe/09 - Roadmap Learning/01 - DSA/00 - Index/00 - Namaste DSA Index.md",
-      "title": "Namaste DSA Index"
-    },
-    {
-      "type": "file",
-      "ctime": 1763103487436,
-      "path": "AirTribe/00 - Course Index and Important/00 - Backend Assignment Index.md",
-      "title": "Backend Assignments Index"
-    },
-    {
-      "type": "file",
-      "ctime": 1762456268333,
-      "path": "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md",
-      "title": "AirTribe DSA Index"
-    },
-    {
-      "type": "file",
-      "ctime": 1762456740392,
-      "path": "AirTribe/09 - Roadmap Learning/00 - Resources and Plan/00  - Roadmap Index.md",
-      "title": "Roadmap Index"
-    },
-    {
-      "type": "group",
-      "ctime": 1762588300787,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1762587550583,
-          "path": "Plan/Weekend Study Plan.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1762588288506,
-          "path": "Plan/Weekend Priority.md",
-          "title": "Weekend Priority"
-        }
-      ],
-      "title": "Weekend Plan"
     },
     {
       "type": "file",
