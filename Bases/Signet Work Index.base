@@ -3,10 +3,9 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("techindex")
+        - file.hasTag("signetindex")
     order:
       - file.name
       - file.tags
-    sort: []
     columnSize:
-      file.name: 269
+      file.name: 368

@@ -1,7 +1,7 @@
 ---
 feature: ../../attachments/00 - Material Profile IA Recommendation Editable - material Profile screen.png
 ---
-#workindex #rlallclientindex   
+#rlallclientindex  #rleuindex
 ****
 The branch : 
 ```plain text
@@ -71,12 +71,14 @@ How much product is allocated to each store.
 	- According to that if our validation is in place or need some changes , because in some cases even without changing anything it should the sum is 99.99% and not passing the validation so make it aligned with the current handling of the decimal and all 
 - And please check if our implementation is correct till now or not 
 
+--- 
+
 [[Changed Documentation - Material Profile]]
 [[Complete Implementation Plan ]]
 [[Rohan Handover]]
 
 --- 
-[[00 - Material Profile second half doc]]
+[[Material Profile second half doc]]
 [[changes done]]
 
 ---

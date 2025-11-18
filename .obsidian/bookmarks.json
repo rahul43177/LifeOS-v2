@@ -18,10 +18,41 @@
       "path": "AirTribe/00 - Course Index and Main/00 - Course Main Index.md"
     },
     {
-      "type": "file",
-      "ctime": 1762953112424,
-      "path": "Work/RL EU/0000 - Material Profile IA Recommendation Editable.md",
-      "title": "Material Profile edit - Main DOC"
+      "type": "group",
+      "ctime": 1763489709415,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1763489660762,
+          "path": "Bases/Signet Work Index.base",
+          "title": "Signet Work Index"
+        },
+        {
+          "type": "file",
+          "ctime": 1763489634483,
+          "path": "Bases/All RL Client Work Index.base",
+          "title": "All RL Client Work Index"
+        },
+        {
+          "type": "file",
+          "ctime": 1763489672874,
+          "path": "Bases/RL NA Work Index.base",
+          "title": "RL NA Work Index"
+        },
+        {
+          "type": "file",
+          "ctime": 1763489682132,
+          "path": "Bases/RL EU Work Index.base",
+          "title": "RL EU Work Index"
+        },
+        {
+          "type": "file",
+          "ctime": 1763489696998,
+          "path": "Bases/RL APAC Work Index.base",
+          "title": "RL APAC Work Index"
+        }
+      ],
+      "title": "InventorySmart All Work Index"
     }
   ]
 }

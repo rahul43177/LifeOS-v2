@@ -1,3 +1,4 @@
+#signetindex 
 ## Issue
 - So clients have reported some issues in the download for the store group 
 - So the download data for the csv is generated through the postgresql query 

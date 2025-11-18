@@ -1,3 +1,4 @@
+
 # Store Contributions Table - Validation & Editability Changes
 
 ## 📋 Context & Background

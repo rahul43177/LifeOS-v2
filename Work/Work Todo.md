@@ -1,4 +1,0 @@
-- [x] Check the frontend download if the formatting is correct or not
-- [ ] Material Mapping 
-- [ ] Store Status 
-- [ ] Store Mapping 

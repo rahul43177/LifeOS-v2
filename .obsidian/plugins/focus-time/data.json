@@ -30,48 +30,6 @@
       "duration": 408000,
       "openCount": 12
     },
-    "Work/MTP Frontend/00 - Frontend Navigation.md": {
-      "fileId": "1762496161820",
-      "filePath": "Work/MTP Frontend/00 - Frontend Navigation.md",
-      "duration": 0,
-      "openCount": 1
-    },
-    "Work/MTP Frontend/Navigation Guide in the Frontend.md": {
-      "fileId": "1762496162698",
-      "filePath": "Work/MTP Frontend/Navigation Guide in the Frontend.md",
-      "duration": 18000,
-      "openCount": 2
-    },
-    "Work/RL NA/000 -  Test PRs raised for Date change.md": {
-      "fileId": "1762496257405",
-      "filePath": "Work/RL NA/000 -  Test PRs raised for Date change.md",
-      "duration": 0,
-      "openCount": 1
-    },
-    "Work/RL NA/00 - Frontend Date format Material Mapping.md": {
-      "fileId": "1762496258697",
-      "filePath": "Work/RL NA/00 - Frontend Date format Material Mapping.md",
-      "duration": 6000,
-      "openCount": 2
-    },
-    "Work/RL NA/00 - Store Grouping download.md": {
-      "fileId": "1762496261499",
-      "filePath": "Work/RL NA/00 - Store Grouping download.md",
-      "duration": 0,
-      "openCount": 1
-    },
-    "Work/RL NA/00 - Store Status Store Mapping Date time format.md": {
-      "fileId": "1762496262375",
-      "filePath": "Work/RL NA/00 - Store Status Store Mapping Date time format.md",
-      "duration": 12000,
-      "openCount": 2
-    },
-    "Work/RL NA/00 - Timestamp changes.md": {
-      "fileId": "1762496263034",
-      "filePath": "Work/RL NA/00 - Timestamp changes.md",
-      "duration": 0,
-      "openCount": 1
-    },
     "Work/RL EU/00 - Material Profile IA Recommendation Editable.md": {
       "fileId": "1762496276699",
       "filePath": "Work/RL EU/00 - Material Profile IA Recommendation Editable.md",
@@ -83,30 +41,6 @@
       "filePath": "AirTribe/09 - Roadmap Learning/02 - Backend/04 - Async and Caching/test.md",
       "duration": 6000,
       "openCount": 2
-    },
-    "Work/RL EU/00 - Material Profile second half doc.md": {
-      "fileId": "1762496294699",
-      "filePath": "Work/RL EU/00 - Material Profile second half doc.md",
-      "duration": 924000,
-      "openCount": 12
-    },
-    "Work/RL EU/Requirements - Material Profile Second half.md": {
-      "fileId": "1762501013363",
-      "filePath": "Work/RL EU/Requirements - Material Profile Second half.md",
-      "duration": 498000,
-      "openCount": 5
-    },
-    "Work/RL EU/Changed Documentation - Material Profile.md": {
-      "fileId": "1762506743330",
-      "filePath": "Work/RL EU/Changed Documentation - Material Profile.md",
-      "duration": 6000,
-      "openCount": 2
-    },
-    "Work/RL EU/Complete Implementation Plan.md": {
-      "fileId": "1762506755245",
-      "filePath": "Work/RL EU/Complete Implementation Plan.md",
-      "duration": 0,
-      "openCount": 1
     },
     "AirTribe/01 - Backend/05 - NodeJS/02 - NodeJs - Rest API and Express.md": {
       "fileId": "1762508921314",
@@ -348,12 +282,6 @@
       "duration": 1416000,
       "openCount": 2
     },
-    "Work/RL EU/changes done.md": {
-      "fileId": "1762874894566",
-      "filePath": "Work/RL EU/changes done.md",
-      "duration": 0,
-      "openCount": 1
-    },
     "Journaling/00 - Daily/11 - November - 2025/14-Nov-2025 Friday.md": {
       "fileId": "1763138985605",
       "filePath": "Journaling/00 - Daily/11 - November - 2025/14-Nov-2025 Friday.md",
@@ -479,12 +407,6 @@
       "filePath": "Journaling/00 - Daily/11 - November - 2025/Untitled.base",
       "duration": 18000,
       "openCount": 2
-    },
-    "Work/RL EU/0000 - Material Profile IA Recommendation Editable.md": {
-      "fileId": "1763202458228",
-      "filePath": "Work/RL EU/0000 - Material Profile IA Recommendation Editable.md",
-      "duration": 72000,
-      "openCount": 10
     },
     "Journaling/00 - Daily/11 - November - 2025/16-Nov-2025 Sunday.md": {
       "fileId": "1763271886501",
@@ -633,26 +555,8 @@
     "Work/Untitled.md": {
       "fileId": "1763448368968",
       "filePath": "Work/Untitled.md",
-      "duration": 6000,
-      "openCount": 2
-    },
-    "Work/RL EU/000 - RL EU Index.md": {
-      "fileId": "1763448374995",
-      "filePath": "Work/RL EU/000 - RL EU Index.md",
-      "duration": 42000,
-      "openCount": 2
-    },
-    "Work/RL NA/NA Test - Store Grouping download issue.md": {
-      "fileId": "1763448446967",
-      "filePath": "Work/RL NA/NA Test - Store Grouping download issue.md",
-      "duration": 456000,
-      "openCount": 4
-    },
-    "Work/Standup Updates/Updates.md": {
-      "fileId": "1763448674967",
-      "filePath": "Work/Standup Updates/Updates.md",
-      "duration": 36000,
-      "openCount": 2
+      "duration": 48000,
+      "openCount": 3
     },
     "Personal/AI Prompt Generations/Rough Prompt AI.md": {
       "fileId": "1763465515041",
@@ -681,7 +585,205 @@
     "AirTribe/00 - Course Index and Important/Tech Study Index.base": {
       "fileId": "1763488652752",
       "filePath": "AirTribe/00 - Course Index and Important/Tech Study Index.base",
+      "duration": 186000,
+      "openCount": 8
+    },
+    "Bases/Tech Study Index.base": {
+      "fileId": "1763489269403",
+      "filePath": "Bases/Tech Study Index.base",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/02 - RL NA/000 -  Test PRs raised for Date change.md": {
+      "fileId": "1762496257405",
+      "filePath": "Work/02 - RL NA/000 -  Test PRs raised for Date change.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "Work/02 - RL NA/00 - Frontend Date format Material Mapping.md": {
+      "fileId": "1762496258697",
+      "filePath": "Work/02 - RL NA/00 - Frontend Date format Material Mapping.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/02 - RL NA/00 - Store Grouping download.md": {
+      "fileId": "1762496261499",
+      "filePath": "Work/02 - RL NA/00 - Store Grouping download.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/02 - RL NA/00 - Store Status Store Mapping Date time format.md": {
+      "fileId": "1762496262375",
+      "filePath": "Work/02 - RL NA/00 - Store Status Store Mapping Date time format.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Work/02 - RL NA/00 - Timestamp changes.md": {
+      "fileId": "1762496263034",
+      "filePath": "Work/02 - RL NA/00 - Timestamp changes.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/02 - RL NA/NA Test - Store Grouping download issue.md": {
+      "fileId": "1763448446967",
+      "filePath": "Work/02 - RL NA/NA Test - Store Grouping download issue.md",
+      "duration": 456000,
+      "openCount": 4
+    },
+    "Work/03 - RL EU/Requirements - Material Profile Second half.md": {
+      "fileId": "1762501013363",
+      "filePath": "Work/03 - RL EU/Requirements - Material Profile Second half.md",
+      "duration": 498000,
+      "openCount": 5
+    },
+    "Work/03 - RL EU/Changed Documentation - Material Profile.md": {
+      "fileId": "1762506743330",
+      "filePath": "Work/03 - RL EU/Changed Documentation - Material Profile.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/Complete Implementation Plan.md": {
+      "fileId": "1762506755245",
+      "filePath": "Work/03 - RL EU/Complete Implementation Plan.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/changes done.md": {
+      "fileId": "1762874894566",
+      "filePath": "Work/03 - RL EU/changes done.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/000 - RL EU Index.md": {
+      "fileId": "1763448374995",
+      "filePath": "Work/03 - RL EU/000 - RL EU Index.md",
+      "duration": 42000,
+      "openCount": 3
+    },
+    "Work/99 - MTP Frontend/00 - Frontend Navigation.md": {
+      "fileId": "1762496161820",
+      "filePath": "Work/99 - MTP Frontend/00 - Frontend Navigation.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/99 - MTP Frontend/Navigation Guide in the Frontend.md": {
+      "fileId": "1762496162698",
+      "filePath": "Work/99 - MTP Frontend/Navigation Guide in the Frontend.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "Work/04 - RL APAC/APAC Ticket.md": {
+      "fileId": "1763489318741",
+      "filePath": "Work/04 - RL APAC/APAC Ticket.md",
+      "duration": 12000,
+      "openCount": 4
+    },
+    "Bases/All RL Client Work Index.base": {
+      "fileId": "1763489372737",
+      "filePath": "Bases/All RL Client Work Index.base",
+      "duration": 90000,
+      "openCount": 11
+    },
+    "Work/03 - RL EU/First Half - Validation + Save API.md": {
+      "fileId": "1763489414741",
+      "filePath": "Work/03 - RL EU/First Half - Validation + Save API.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/000000 - RL EU Rough.md": {
+      "fileId": "1763489426737",
+      "filePath": "Work/03 - RL EU/000000 - RL EU Rough.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/second-half.md": {
+      "fileId": "1763489432737",
+      "filePath": "Work/03 - RL EU/second-half.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "Bases/RL EU Work Index.base": {
+      "fileId": "1763489450740",
+      "filePath": "Bases/RL EU Work Index.base",
+      "duration": 24000,
+      "openCount": 6
+    },
+    "Bases/RL NA Work Index.base": {
+      "fileId": "1763489468740",
+      "filePath": "Bases/RL NA Work Index.base",
+      "duration": 18000,
+      "openCount": 5
+    },
+    "Bases/RL APAC Work Index.base": {
+      "fileId": "1763489480736",
+      "filePath": "Bases/RL APAC Work Index.base",
+      "duration": 186000,
+      "openCount": 7
+    },
+    "Bases/Signet Work Index.base": {
+      "fileId": "1763489570741",
+      "filePath": "Bases/Signet Work Index.base",
+      "duration": 42000,
+      "openCount": 7
+    },
+    "Work/01 - SIGNET/000 - Signet Rough.md": {
+      "fileId": "1763489588736",
+      "filePath": "Work/01 - SIGNET/000 - Signet Rough.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Work/01 - SIGNET/00 - Store Group download query optimisation.md": {
+      "fileId": "1763489594739",
+      "filePath": "Work/01 - SIGNET/00 - Store Group download query optimisation.md",
+      "duration": 18000,
+      "openCount": 3
+    },
+    "Work/01 - SIGNET/UAM Issue.md": {
+      "fileId": "1763489600738",
+      "filePath": "Work/01 - SIGNET/UAM Issue.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/Material Profile IA Recommendation Editable.md": {
+      "fileId": "1763202458228",
+      "filePath": "Work/03 - RL EU/Material Profile IA Recommendation Editable.md",
       "duration": 150000,
+      "openCount": 16
+    },
+    "Work/03 - RL EU/Material Profile second half doc.md": {
+      "fileId": "1762496294699",
+      "filePath": "Work/03 - RL EU/Material Profile second half doc.md",
+      "duration": 930000,
+      "openCount": 14
+    },
+    "Work/03 - RL EU/Rohan Handover.md": {
+      "fileId": "1763489816734",
+      "filePath": "Work/03 - RL EU/Rohan Handover.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Work/03 - RL EU/Second Half - Listing new table.md": {
+      "fileId": "1763489820258",
+      "filePath": "Work/03 - RL EU/Second Half - Listing new table.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/00 - Standup Updates and Planning/Loading issue in store group.md": {
+      "fileId": "1763489857773",
+      "filePath": "Work/00 - Standup Updates and Planning/Loading issue in store group.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Work/00 - Standup Updates and Planning/00 - Standup Updates.md": {
+      "fileId": "1763448674967",
+      "filePath": "Work/00 - Standup Updates and Planning/00 - Standup Updates.md",
+      "duration": 156000,
+      "openCount": 7
+    },
+    "Work/00 - Standup Updates and Planning/01 - Work Planning and Todos.md": {
+      "fileId": "1763489822736",
+      "filePath": "Work/00 - Standup Updates and Planning/01 - Work Planning and Todos.md",
+      "duration": 66000,
       "openCount": 5
     }
   }

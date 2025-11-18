@@ -3,10 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("techindex")
+        - file.hasTag("rlallclientindex")
     order:
       - file.name
       - file.tags
-    sort: []
-    columnSize:
-      file.name: 269
