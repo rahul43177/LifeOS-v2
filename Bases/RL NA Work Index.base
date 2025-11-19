@@ -7,3 +7,8 @@ views:
     order:
       - file.name
       - file.tags
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 432

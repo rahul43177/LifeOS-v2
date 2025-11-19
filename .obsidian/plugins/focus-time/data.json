@@ -58,7 +58,7 @@
       "fileId": "1762511224155",
       "filePath": "AirTribe/00 - Course Index and Important/00 - Backend Course Index.md",
       "duration": 174000,
-      "openCount": 27
+      "openCount": 28
     },
     "AirTribe/01 - Backend/01 - Pre-Course Module/01 - How to grow as an Engineer.md": {
       "fileId": "1762511264052",
@@ -261,8 +261,8 @@
     "Journaling/00 - Daily/11 - November - 2025/10-Nov-2025 Monday.md": {
       "fileId": "1762716207832",
       "filePath": "Journaling/00 - Daily/11 - November - 2025/10-Nov-2025 Monday.md",
-      "duration": 3264000,
-      "openCount": 16
+      "duration": 3270000,
+      "openCount": 17
     },
     "Journaling/About me.md": {
       "fileId": "1762717491839",
@@ -291,8 +291,8 @@
     "AirTribe/00 - Course Index and Important/00 - Backend Assignment Index.md": {
       "fileId": "1763139006927",
       "filePath": "AirTribe/00 - Course Index and Important/00 - Backend Assignment Index.md",
-      "duration": 78000,
-      "openCount": 11
+      "duration": 84000,
+      "openCount": 12
     },
     "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/00 - Task Manager API requirements - MAIN.md": {
       "fileId": "1763139007747",
@@ -315,8 +315,8 @@
     "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md": {
       "fileId": "1763140706565",
       "filePath": "AirTribe/00 - Course Index and Important/01 - AirTribe DSA Index.md",
-      "duration": 30000,
-      "openCount": 7
+      "duration": 60000,
+      "openCount": 9
     },
     "AirTribe/01 - Backend/00 - Backend Assignments/01 - Task Manager API/GET task with ID API.md": {
       "fileId": "1763143103053",
@@ -477,8 +477,8 @@
     "Journaling/00 - Daily/11 - November - 2025/18-Nov-2025 Tuesday.md": {
       "fileId": "1763381956707",
       "filePath": "Journaling/00 - Daily/11 - November - 2025/18-Nov-2025 Tuesday.md",
-      "duration": 2196000,
-      "openCount": 15
+      "duration": 2202000,
+      "openCount": 17
     },
     "AirTribe/00 - Course Index and Important/Untitled.base": {
       "fileId": "1763403020980",
@@ -582,23 +582,11 @@
       "duration": 12000,
       "openCount": 3
     },
-    "AirTribe/00 - Course Index and Important/Tech Study Index.base": {
-      "fileId": "1763488652752",
-      "filePath": "AirTribe/00 - Course Index and Important/Tech Study Index.base",
-      "duration": 186000,
-      "openCount": 8
-    },
-    "Bases/Tech Study Index.base": {
-      "fileId": "1763489269403",
-      "filePath": "Bases/Tech Study Index.base",
-      "duration": 0,
-      "openCount": 1
-    },
     "Work/02 - RL NA/000 -  Test PRs raised for Date change.md": {
       "fileId": "1762496257405",
       "filePath": "Work/02 - RL NA/000 -  Test PRs raised for Date change.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 42000,
+      "openCount": 3
     },
     "Work/02 - RL NA/00 - Frontend Date format Material Mapping.md": {
       "fileId": "1762496258697",
@@ -627,8 +615,8 @@
     "Work/02 - RL NA/NA Test - Store Grouping download issue.md": {
       "fileId": "1763448446967",
       "filePath": "Work/02 - RL NA/NA Test - Store Grouping download issue.md",
-      "duration": 456000,
-      "openCount": 4
+      "duration": 480000,
+      "openCount": 6
     },
     "Work/03 - RL EU/Requirements - Material Profile Second half.md": {
       "fileId": "1762501013363",
@@ -678,12 +666,6 @@
       "duration": 12000,
       "openCount": 4
     },
-    "Bases/All RL Client Work Index.base": {
-      "fileId": "1763489372737",
-      "filePath": "Bases/All RL Client Work Index.base",
-      "duration": 90000,
-      "openCount": 11
-    },
     "Work/03 - RL EU/First Half - Validation + Save API.md": {
       "fileId": "1763489414741",
       "filePath": "Work/03 - RL EU/First Half - Validation + Save API.md",
@@ -701,30 +683,6 @@
       "filePath": "Work/03 - RL EU/second-half.md",
       "duration": 6000,
       "openCount": 3
-    },
-    "Bases/RL EU Work Index.base": {
-      "fileId": "1763489450740",
-      "filePath": "Bases/RL EU Work Index.base",
-      "duration": 24000,
-      "openCount": 6
-    },
-    "Bases/RL NA Work Index.base": {
-      "fileId": "1763489468740",
-      "filePath": "Bases/RL NA Work Index.base",
-      "duration": 18000,
-      "openCount": 5
-    },
-    "Bases/RL APAC Work Index.base": {
-      "fileId": "1763489480736",
-      "filePath": "Bases/RL APAC Work Index.base",
-      "duration": 186000,
-      "openCount": 7
-    },
-    "Bases/Signet Work Index.base": {
-      "fileId": "1763489570741",
-      "filePath": "Bases/Signet Work Index.base",
-      "duration": 42000,
-      "openCount": 7
     },
     "Work/01 - SIGNET/000 - Signet Rough.md": {
       "fileId": "1763489588736",
@@ -747,14 +705,14 @@
     "Work/03 - RL EU/Material Profile IA Recommendation Editable.md": {
       "fileId": "1763202458228",
       "filePath": "Work/03 - RL EU/Material Profile IA Recommendation Editable.md",
-      "duration": 150000,
-      "openCount": 16
+      "duration": 642000,
+      "openCount": 21
     },
     "Work/03 - RL EU/Material Profile second half doc.md": {
       "fileId": "1762496294699",
       "filePath": "Work/03 - RL EU/Material Profile second half doc.md",
-      "duration": 930000,
-      "openCount": 14
+      "duration": 960000,
+      "openCount": 15
     },
     "Work/03 - RL EU/Rohan Handover.md": {
       "fileId": "1763489816734",
@@ -777,14 +735,92 @@
     "Work/00 - Standup Updates and Planning/00 - Standup Updates.md": {
       "fileId": "1763448674967",
       "filePath": "Work/00 - Standup Updates and Planning/00 - Standup Updates.md",
-      "duration": 156000,
-      "openCount": 7
+      "duration": 300000,
+      "openCount": 11
     },
     "Work/00 - Standup Updates and Planning/01 - Work Planning and Todos.md": {
       "fileId": "1763489822736",
       "filePath": "Work/00 - Standup Updates and Planning/01 - Work Planning and Todos.md",
-      "duration": 66000,
+      "duration": 72000,
+      "openCount": 6
+    },
+    "AirTribe/00 - Course Index and Important/09 - What do I want from this course.md": {
+      "fileId": "1763490197320",
+      "filePath": "AirTribe/00 - Course Index and Important/09 - What do I want from this course.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Bases/Tech Study Index.base": {
+      "fileId": "1763488652752",
+      "filePath": "Bases/Tech Study Index.base",
+      "duration": 240000,
+      "openCount": 9
+    },
+    "Bases/All RL Client Work Index.base": {
+      "fileId": "1763489372737",
+      "filePath": "Bases/All RL Client Work Index.base",
+      "duration": 156000,
+      "openCount": 18
+    },
+    "Bases/RL EU Work Index.base": {
+      "fileId": "1763489450740",
+      "filePath": "Bases/RL EU Work Index.base",
+      "duration": 24000,
+      "openCount": 8
+    },
+    "Bases/RL NA Work Index.base": {
+      "fileId": "1763489468740",
+      "filePath": "Bases/RL NA Work Index.base",
+      "duration": 84000,
+      "openCount": 9
+    },
+    "Bases/RL APAC Work Index.base": {
+      "fileId": "1763489480736",
+      "filePath": "Bases/RL APAC Work Index.base",
+      "duration": 198000,
+      "openCount": 10
+    },
+    "Bases/Signet Work Index.base": {
+      "fileId": "1763489570741",
+      "filePath": "Bases/Signet Work Index.base",
+      "duration": 48000,
+      "openCount": 10
+    },
+    "Work/02 - RL NA/NA UAT - Material Status - Product Group filter is not working.md": {
+      "fileId": "1763490338738",
+      "filePath": "Work/02 - RL NA/NA UAT - Material Status - Product Group filter is not working.md",
+      "duration": 372000,
+      "openCount": 3
+    },
+    "Journaling/00 - Daily/11 - November - 2025/19-Nov-2025 Wednesday.md": {
+      "fileId": "1763511139385",
+      "filePath": "Journaling/00 - Daily/11 - November - 2025/19-Nov-2025 Wednesday.md",
+      "duration": 96000,
       "openCount": 5
+    },
+    "Work/02 - RL NA/RL NA Test.md": {
+      "fileId": "1763531028392",
+      "filePath": "Work/02 - RL NA/RL NA Test.md",
+      "duration": 54000,
+      "openCount": 3
+    },
+    "Surya/Introduction.md": {
+      "fileId": "1763534034503",
+      "filePath": "Surya/Introduction.md",
+      "duration": 30000,
+      "openCount": 4
+    },
+    "Surya/software engineer.md": {
+      "fileId": "1763534046503",
+      "filePath": "Surya/software engineer.md",
+      "duration": 24000,
+      "openCount": 5
+    },
+    "Surya/code.md": {
+      "fileId": "1763534064503",
+      "filePath": "Surya/code.md",
+      "duration": 6000,
+      "openCount": 2
     }
   }
 }

@@ -1,4 +1,3 @@
-1. First ticket - [[../02 - RL NA/NA Test - Store Grouping download issue|NA Test - Store Grouping download issue]] 
-2. Moved all my pending tickets accordingly and updated the status and commented on the tickets accordingly.
----
-Today I will check the ticket which you pinged me yesterday evening about the product group filter is not working fine. 
+1. Worked on the ticket -- [[../02 - RL NA/NA UAT - Material Status - Product Group filter is not working|NA UAT - Material Status - Product Group filter is not working]]
+	1. Raised the PR and it got synced also and I updated the ticket as well. 
+2. 
