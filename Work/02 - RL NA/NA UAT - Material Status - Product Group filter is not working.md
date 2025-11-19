@@ -1,4 +1,11 @@
 #rlnaindex 
+
+The ticket link - https://impactanalytics.atlassian.net/browse/MTP-116859
+
+Branch name for UAT : 
+```
+MTP-116859-Material-Status-Product-Group-filter-not-working-fixed
+```
 ##### The issue description : 
 Issue : Material status > Product group filter is not working
 ##### The API which is causing the issue from the network browser , The CURL :

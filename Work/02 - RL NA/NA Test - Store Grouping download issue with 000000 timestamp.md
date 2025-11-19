@@ -1,4 +1,9 @@
 #rlnaindex
+Ticket - https://impactanalytics.atlassian.net/browse/MTP-116533
+MTP-116533
+###### PRs raised : 
+- [x] Test 
+- [ ] UAT
 ##### The issue description : 
 Issue :  Grouping > Store grouping > Downloaded file > Updated at and Created at time stamp is coming as 00:00:00
 
@@ -657,6 +662,19 @@ When you make a request to download store groups, you'll see detailed logging sh
 - If some function is not present then it must be taking from the : `/Users/rahulmishra/Desktop/mtp-database/database/schemas/global/functions` -> common for everyone 
 - So if we want to make something client specific we can take it from - `/Users/rahulmishra/Desktop/mtp-database/database/schemas/global/functions` and create the function inside the client or tenant folder
 
+With all this -- 
+I did the changes in the SP thinking that if I add the timestamp so it will show the exact timestamp instead of 00000 -- below is the screenshot of what I did yesterday and got the PR merged 
+![[../../attachments/NA Test - Store Grouping download issue - PR raised.png]]
+
+
+> 12:13 pm 
+
+
+
+
+```plain text
+/Users/rahulmishra/Desktop/mtp-core-backend/backend/core/utils.py:729
+```
 
 ##### Request 
 1. Please check the curl I have given , from that : 

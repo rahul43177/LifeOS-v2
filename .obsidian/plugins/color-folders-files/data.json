@@ -39,11 +39,17 @@
       "applyToFiles": false
     },
     "AirTribe": {
-      "backgroundColor": "#ff3333",
+      "backgroundColor": "#2470c2",
       "textColor": "#ffffff",
       "isBold": true,
       "isItalic": false,
       "applyToFiles": false
+    },
+    "Work": {
+      "backgroundColor": "#d42157",
+      "isBold": true,
+      "isItalic": true,
+      "textColor": "#ffffff"
     }
   },
   "presets": {

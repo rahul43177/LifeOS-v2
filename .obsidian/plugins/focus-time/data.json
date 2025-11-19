@@ -261,8 +261,8 @@
     "Journaling/00 - Daily/11 - November - 2025/10-Nov-2025 Monday.md": {
       "fileId": "1762716207832",
       "filePath": "Journaling/00 - Daily/11 - November - 2025/10-Nov-2025 Monday.md",
-      "duration": 3270000,
-      "openCount": 17
+      "duration": 3300000,
+      "openCount": 18
     },
     "Journaling/About me.md": {
       "fileId": "1762717491839",
@@ -376,7 +376,7 @@
       "fileId": "1763196747565",
       "filePath": "Z-Personal Learning/04 - Chess/How to win in 8 moves with Black self.md",
       "duration": 192000,
-      "openCount": 4
+      "openCount": 5
     },
     "Z-Personal Learning/04 - Chess/Wayward Queen Attack.md": {
       "fileId": "1763196761460",
@@ -609,14 +609,8 @@
     "Work/02 - RL NA/00 - Timestamp changes.md": {
       "fileId": "1762496263034",
       "filePath": "Work/02 - RL NA/00 - Timestamp changes.md",
-      "duration": 0,
-      "openCount": 1
-    },
-    "Work/02 - RL NA/NA Test - Store Grouping download issue.md": {
-      "fileId": "1763448446967",
-      "filePath": "Work/02 - RL NA/NA Test - Store Grouping download issue.md",
-      "duration": 480000,
-      "openCount": 6
+      "duration": 6000,
+      "openCount": 2
     },
     "Work/03 - RL EU/Requirements - Material Profile Second half.md": {
       "fileId": "1762501013363",
@@ -628,19 +622,19 @@
       "fileId": "1762506743330",
       "filePath": "Work/03 - RL EU/Changed Documentation - Material Profile.md",
       "duration": 6000,
-      "openCount": 2
+      "openCount": 3
     },
     "Work/03 - RL EU/Complete Implementation Plan.md": {
       "fileId": "1762506755245",
       "filePath": "Work/03 - RL EU/Complete Implementation Plan.md",
-      "duration": 0,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 6
     },
     "Work/03 - RL EU/changes done.md": {
       "fileId": "1762874894566",
       "filePath": "Work/03 - RL EU/changes done.md",
       "duration": 0,
-      "openCount": 2
+      "openCount": 3
     },
     "Work/03 - RL EU/000 - RL EU Index.md": {
       "fileId": "1763448374995",
@@ -693,26 +687,26 @@
     "Work/01 - SIGNET/00 - Store Group download query optimisation.md": {
       "fileId": "1763489594739",
       "filePath": "Work/01 - SIGNET/00 - Store Group download query optimisation.md",
-      "duration": 18000,
-      "openCount": 3
+      "duration": 36000,
+      "openCount": 7
     },
     "Work/01 - SIGNET/UAM Issue.md": {
       "fileId": "1763489600738",
       "filePath": "Work/01 - SIGNET/UAM Issue.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 12000,
+      "openCount": 3
     },
     "Work/03 - RL EU/Material Profile IA Recommendation Editable.md": {
       "fileId": "1763202458228",
       "filePath": "Work/03 - RL EU/Material Profile IA Recommendation Editable.md",
-      "duration": 642000,
-      "openCount": 21
+      "duration": 660000,
+      "openCount": 22
     },
     "Work/03 - RL EU/Material Profile second half doc.md": {
       "fileId": "1762496294699",
       "filePath": "Work/03 - RL EU/Material Profile second half doc.md",
-      "duration": 960000,
-      "openCount": 15
+      "duration": 966000,
+      "openCount": 16
     },
     "Work/03 - RL EU/Rohan Handover.md": {
       "fileId": "1763489816734",
@@ -735,14 +729,14 @@
     "Work/00 - Standup Updates and Planning/00 - Standup Updates.md": {
       "fileId": "1763448674967",
       "filePath": "Work/00 - Standup Updates and Planning/00 - Standup Updates.md",
-      "duration": 300000,
-      "openCount": 11
+      "duration": 426000,
+      "openCount": 16
     },
     "Work/00 - Standup Updates and Planning/01 - Work Planning and Todos.md": {
       "fileId": "1763489822736",
       "filePath": "Work/00 - Standup Updates and Planning/01 - Work Planning and Todos.md",
-      "duration": 72000,
-      "openCount": 6
+      "duration": 90000,
+      "openCount": 7
     },
     "AirTribe/00 - Course Index and Important/09 - What do I want from this course.md": {
       "fileId": "1763490197320",
@@ -759,20 +753,20 @@
     "Bases/All RL Client Work Index.base": {
       "fileId": "1763489372737",
       "filePath": "Bases/All RL Client Work Index.base",
-      "duration": 156000,
-      "openCount": 18
+      "duration": 162000,
+      "openCount": 20
     },
     "Bases/RL EU Work Index.base": {
       "fileId": "1763489450740",
       "filePath": "Bases/RL EU Work Index.base",
       "duration": 24000,
-      "openCount": 8
+      "openCount": 10
     },
     "Bases/RL NA Work Index.base": {
       "fileId": "1763489468740",
       "filePath": "Bases/RL NA Work Index.base",
-      "duration": 84000,
-      "openCount": 9
+      "duration": 102000,
+      "openCount": 16
     },
     "Bases/RL APAC Work Index.base": {
       "fileId": "1763489480736",
@@ -783,20 +777,20 @@
     "Bases/Signet Work Index.base": {
       "fileId": "1763489570741",
       "filePath": "Bases/Signet Work Index.base",
-      "duration": 48000,
-      "openCount": 10
+      "duration": 54000,
+      "openCount": 12
     },
     "Work/02 - RL NA/NA UAT - Material Status - Product Group filter is not working.md": {
       "fileId": "1763490338738",
       "filePath": "Work/02 - RL NA/NA UAT - Material Status - Product Group filter is not working.md",
-      "duration": 372000,
-      "openCount": 3
+      "duration": 420000,
+      "openCount": 7
     },
     "Journaling/00 - Daily/11 - November - 2025/19-Nov-2025 Wednesday.md": {
       "fileId": "1763511139385",
       "filePath": "Journaling/00 - Daily/11 - November - 2025/19-Nov-2025 Wednesday.md",
-      "duration": 96000,
-      "openCount": 5
+      "duration": 258000,
+      "openCount": 8
     },
     "Work/02 - RL NA/RL NA Test.md": {
       "fileId": "1763531028392",
@@ -807,8 +801,8 @@
     "Surya/Introduction.md": {
       "fileId": "1763534034503",
       "filePath": "Surya/Introduction.md",
-      "duration": 30000,
-      "openCount": 4
+      "duration": 42000,
+      "openCount": 5
     },
     "Surya/software engineer.md": {
       "fileId": "1763534046503",
@@ -821,6 +815,48 @@
       "filePath": "Surya/code.md",
       "duration": 6000,
       "openCount": 2
+    },
+    "Work/02 - RL NA/NA Test - Store Grouping download issue with 000000 timestamp.md": {
+      "fileId": "1763448446967",
+      "filePath": "Work/02 - RL NA/NA Test - Store Grouping download issue with 000000 timestamp.md",
+      "duration": 762000,
+      "openCount": 12
+    },
+    "Work/03 - RL EU/All Work Items Sheet to clear the bugs.md": {
+      "fileId": "1763538428107",
+      "filePath": "Work/03 - RL EU/All Work Items Sheet to clear the bugs.md",
+      "duration": 72000,
+      "openCount": 4
+    },
+    "Work/03 - RL EU/standup.md": {
+      "fileId": "1763539222783",
+      "filePath": "Work/03 - RL EU/standup.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Work/01 - SIGNET/Signet Test - SKU Mapping - Grid saving is throwing an error.md": {
+      "fileId": "1763540606167",
+      "filePath": "Work/01 - SIGNET/Signet Test - SKU Mapping - Grid saving is throwing an error.md",
+      "duration": 240000,
+      "openCount": 6
+    },
+    "Work/01 - SIGNET/SKU Mapping - Inline Save Failure Root cause.md": {
+      "fileId": "1763542322181",
+      "filePath": "Work/01 - SIGNET/SKU Mapping - Inline Save Failure Root cause.md",
+      "duration": 60000,
+      "openCount": 2
+    },
+    "Work/05 - CNA/00 - CNA Introduction.md": {
+      "fileId": "1763545166783",
+      "filePath": "Work/05 - CNA/00 - CNA Introduction.md",
+      "duration": 936000,
+      "openCount": 2
+    },
+    "Excalidraw/Drawing 2025-11-19 19.40.11.excalidraw.md": {
+      "fileId": "1763561414463",
+      "filePath": "Excalidraw/Drawing 2025-11-19 19.40.11.excalidraw.md",
+      "duration": 354000,
+      "openCount": 1
     }
   }
 }

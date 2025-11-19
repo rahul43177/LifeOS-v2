@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLaptop",
       "LiBrainCog",
       "LiHand",
       "🖐",
-      "LiNotebookText",
-      "LiHeartHandshake"
+      "LiNotebookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "SAILUM": "LiHeartHandshake",
   "Journaling": "LiNotebookText",
   "Handy and Imp": "LiHand",
-  "Vajra Hatha Yoga": "LiBrainCog"
+  "Vajra Hatha Yoga": "LiBrainCog",
+  "Work": "LiLaptop"
 }

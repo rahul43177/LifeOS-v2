@@ -1,11 +1,26 @@
 ## Anything in your mind just dump it and say it whenever you feel like in the entire day 
-###### 07:48 AM
+###### 07:48 AM #excited 
 - I am travelling to office, completed one of the today’s bug last night itself so i am kind of chill 
 - Just need to validate once and I have finished my bug list as well. 
 - So it is going to be little chill day today 
 - Also going little early — So I will fix the frontend material profile fix and close the loop. 
-###### 11:07 am
-- S
+
+###### 02:09 pm #sad 
+- So the officer which called Muskan and her family for the counselling has asked to write a letter for divorce and separation and this is real real sad , for me and for her it is like family falling apart , I know this is so intense.
+- I feel so sad for her and her family -- how it is falling apart. Just because of anger and lack of understanding each other.
+- Uncle has so much ego and anger issues , this is not cool and this is so sad. I hope she gets over this. 
+- I am with her anyways supporting her in this tough time.
+- Right now I am feeling little better in terms of work -- because I completed tickets and moved them from my JIRA board. 
+
+###### 06:04 PM
+- I felt so good today as today was the first knowledge transfer (KT) session for the CNA feature 
+- That is heart of our tool and they want me and few other folks to be aware of everything 
+- And hence full proper KT , Surya gave 
+- Felt relevant and important and I really felt like a real engineer after so long. 
+- Other all I was dealing with was fetching dafa and updating data mostly CRUD operations.
+- So it was really really nice today where we talked about — cross functionality and if something is changed here — it will affect other parts of the tool and vice versa 
+- And it is a lot more difficult than the previous CRUD operations.
+
 
 
 ---
