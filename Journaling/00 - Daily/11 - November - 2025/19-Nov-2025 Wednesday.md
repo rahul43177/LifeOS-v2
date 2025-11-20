@@ -56,13 +56,13 @@
 ## What is my body telling me ?
 (Tense, relaxed, heavy, light, tightness in chest, pressure in head, clenched jaw, steady breath, shallow breath, warmth, numbness, exhaustion, energized, restless, shaky, calm, open, closed-off, craving movement, craving stillness, hunger, thirst, comfort-seeking, overstimulated, grounded, unsafe, safe, wanting touch, wanting space.)
 
--  
+- wanting proper rest after commuting from home to office and then office to home. 
 
 
 ---
 ## What do I need right now?
 (Comfort, rest, conversation, solitude, forgiveness, nature, silence, movement/exercise, stillness, distraction, focus, to be heard, to be alone, physical touch, space from others, fresh air, water, food, sleep, to cry, to laugh, to scream, creative expression, spiritual practice, grounding, permission to feel, reassurance, honesty, clarity, boundaries, connection, freedom, structure, play, purpose, acceptance, change, control, to let go, support, independence, validation, challenge, safety, adventure, etc.)
-- 
+- REST and sleep 
 
 
 
@@ -72,16 +72,13 @@
 (If you have time or feel like writing more.)
 
 ==What helped me feel slightly better today?==
-
+- Meeting which we did in the meeting room -- felt like real engineer. 
 
 ==One thing I'm grateful for:==
-
-
-
----
+- Job
 
 
 ---
 
 ## Name Chanting figure : 
-> Count :
+> Count : 1378

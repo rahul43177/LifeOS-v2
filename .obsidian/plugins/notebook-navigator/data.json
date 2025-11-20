@@ -288,9 +288,12 @@
     "AirTribe": "book"
   },
   "folderColors": {},
-  "folderBackgroundColors": {},
+  "folderBackgroundColors": {
+    "AirTribe": "#3b82f6"
+  },
   "folderSortOverrides": {
-    "Personal/Processing Emotions": "title-asc"
+    "Personal/Processing Emotions": "title-asc",
+    "AirTribe": "title-asc"
   },
   "folderAppearances": {},
   "tagIcons": {},
@@ -301,9 +304,9 @@
   "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "1.8.4",
+  "latestKnownRelease": "1.8.6",
   "lastAnnouncedRelease": "1.8.1",
-  "lastReleaseCheckAt": 1763555626590,
+  "lastReleaseCheckAt": 1763660770710,
   "rootFolderOrder": [
     "AirTribe",
     "Handy and Imp",
