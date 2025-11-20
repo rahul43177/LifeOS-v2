@@ -1,10 +1,10 @@
-# 🎯 ROOT CAUSE CONFIRMED!
+# ROOT CAUSE CONFIRMED!
 
 Perfect! The database query results clearly show the issue. Let me break down what's happening:
 
 ---
 
-## 📊 Key Findings from Query Results
+## Key Findings from Query Results
 
 ### TEST Database (BROKEN) ❌
 

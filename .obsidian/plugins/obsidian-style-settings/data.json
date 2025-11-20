@@ -230,8 +230,6 @@
   "obsidian-prism-theme@@inline-title-color-lt": "var(--interactive-accent-text)",
   "obsidian-prism-theme@@inline-title-size": 2.4,
   "anuppuccin-theme-settings@@list-numbered-style": "decimal",
-  "retroma-obsidian-theme@@theme-variant": "Groovy",
-  "retroma-obsidian-theme@@window-border-radius": "18px",
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-transparent-dark",
   "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-CSS-dark",

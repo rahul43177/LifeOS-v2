@@ -31,24 +31,25 @@
 - Dreams: 
 
 ## How do I feel right now?
-**Time:** [e.g., 10:30 PM]
+**Time:** 10:30 pm 
 
 (Use one or a few words — e.g., calm, low, blank, irritated, hopeful, anxious, heavy, peaceful, restless, lonely, relaxed, tense, tired, grateful, confused, excited, numb, content, loving, scared, bechain, relieved, joyful, happy, angry, frustrated, overwhelmed, drained, light, trapped, free, supported, abandoned, appreciated, dismissed, confident, insecure, proud, ashamed, guilty, resentful, forgiving, energized, depleted, focused, scattered, grounded, disconnected, warm, cold, inspired, stuck, playful, serious, vulnerable, defensive, safe, threatened.)
-- Emotion(s): 
-- Energy level (1–10): 
+- Emotion(s): peaceful 
+- Energy level (1–10): 8.5 
 
 ---
 
 ## What might be behind this feeling?
 (Any event, thought, or situation that could be connected? It’s okay if you’re not sure.)
 ###### Possible reason(s): 
--  
+-  Because felt like a real engineer after so long -- with technical discussions in a meeting and then learning about new stuff and getting to work on some complicated stuff . I am loving it. 
+- So I am at peace today because of all these above reasons .
 
 
 ---
 ## What is my mind saying?
 (Write the thoughts that are repeating — even small ones.)
-- 
+- Assignment submission
 
 
 ---

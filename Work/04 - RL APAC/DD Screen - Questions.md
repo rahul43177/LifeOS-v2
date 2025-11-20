@@ -1,0 +1,1 @@
+1. How did you find out in the Decision Dashboard -> Alerts -> Auto Allocations -> Review Recommendation 

@@ -1,22 +1,21 @@
 [
-  "obsidian-git",
   "obsidian-paste-image-rename",
   "obsidian-excalidraw-plugin",
   "obsidian-image-toolkit",
   "calendar",
-  "code-styler",
   "omnisearch",
   "templater-obsidian",
   "editing-toolbar",
   "oz-clear-unused-images",
   "obsidian-icon-folder",
-  "color-folders-files",
   "notebook-navigator",
   "obsidian-style-settings",
   "obsidian-editor-shortcuts",
-  "obsidian-minimal-settings",
-  "obsidian-format-code",
-  "focus-time",
   "nldates-obsidian",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "dataview",
+  "obsidian-kanban",
+  "quickadd",
+  "obsidian-tasks-plugin",
+  "code-styler"
 ]
